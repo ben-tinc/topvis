@@ -1,0 +1,38 @@
+div#document-container {
+	overflow-x: scroll;
+}
+div#document-info,
+div#topic-info {
+	padding-left: 45px;
+	font-size: 110%;
+}
+div#topic-container {
+    height: 1000px;
+    overflow-y: scroll;
+}
+svg g.document {
+	opacity: 0.3;
+}
+svg g.document.active {
+	opacity: 1;
+}
+svg g#topg rect.intersect {
+    opacity: .2;
+}
+svg g#topg rect.intersect.active {
+    opacity: 1;
+}
+div#top-controls {
+    display: block;
+}
+div#top-controls img{
+    display: inline;
+    height: 50px;
+}
+button#allActive {
+    display: inline;
+    height: 50px;
+}
+svg g#topg text {
+    cursor: pointer;
+}

@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Visualisierung</title>
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+	<link rel="stylesheet" type="text/css" href="css/bootstrap-theme.css">
+	<link rel="stylesheet" type="text/css" href="css/visualization.css">
+</head>
+<body>
+
+<div class="container">
+	<h2 id="doc-header">Dokumente</h2>
+	<div id="document-container" class="col-sm-8"></div>
+	<div id="document-info" class="col-sm-4">
+		<h3>Details</h3>
+		<p id="did"></p>
+		<p id="file"></p>
+		<span>Topics</span>
+		<ul id="doc-details"></ul>
+	</div>
+	<div class="clearfix"></div>
+	<h2 id="top-header">Topics</h2>
+    
+	<div id="topic-container" class="col-sm-8">
+        <div id="top-controls">
+            <button id="allActive">all active</button>
+            <img src="scala.png" alt="scale" />
+        </div>
+    </div>
+    <div id="topic-info" class="col-sm-4">
+        <h3>Details</h3>
+        <h4 id="topic-id"></h4>
+        <span id="toggleDocList">Dokumente</span>
+        <ul id="top-details"></ul>
+        <div id="top-importance"></div>
+
+    </div>
+</div>
+
+<script type="text/javascript" src="js/jquery-3.1.1.min.js"></script>
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+<script type="text/javascript" src="js/d3.js"></script>
+
+<script type="text/javascript">
+	$(document).ready(function() {
+		var w = 6400,
+			h = 500;
+        var tw = 700,
+            th = 2750,
+            es = 19;
+
+		var docsvg = d3.select("#document-container").append("svg")
+			.attr("width", w)
+			.attr("height", h);
+		var docg = docsvg.append("g").attr("id", "docg");
+        var topsvg = d3.select("#topic-container").append("svg")
+            .attr("width", tw)
+            .attr("height", th);
+        var topg = topsvg.append("g").attr("id", "topg");
+	
+		var colors = [
+			'#001f3f', '#0074D9', '#7FDBFF', '#39CCCC', '#3D9970',
+			'#2ECC40', '#01FF70', '#B10DC9',
+			'#85144b', '#F012BE', '#AAAAAA', '#888888', '#444444'
+		];
+        var tcolor = [
+            '#aaaaaa', '#12FF01', '#0CB001', '#087300', '#044000'
+        ];
+        var tsteps = [
+            0, 0.05, 0.1, 0.25, 0.5
+        ];
+
+        $("h2#doc-header").click(function() {
+            $("div#document-container").slideToggle(300);
+            $("div#document-info").slideToggle(300);
+        });
+        $("h2#top-header").click(function() {
+            $("div#topic-container").slideToggle(300);
+            $("div#topic-info").slideToggle(300);
+        });
+        $("span#toggleDocList").click(function() {
+            $("ul#top-details").slideToggle(300);
+        });
+
+		d3.json("documents.json", function(error, data) {
+			if (error) { throw error; }
+
+			data = data.sort(function(a, b) { return parseInt(a.did) > parseInt(b.did); });
+
+            /**
+             * DOCUMENTS
+             */
+			var docs = docg.selectAll("g.document").data(data);
+			docs.enter()
+				.append("g").classed("document", true)
+					.attr("id", function(d, i){
+						return "doc-"+d.did;
+					})
+					.attr("transform", function(d, i){ return "translate("+[i*50, 10]+")"; })
+					.each(function(d, i) {
+						var self = d3.select(this);
+						self.on("click", function(){
+							docg.selectAll("g.document").classed("active", false);
+							self.classed("active", true);
+							updateDetails(d); 
+						});
+                        /* labeling */
+                        if(i%10===0) {
+                            self.append("text").text(i).style("opacity", 1).style("color", "black").style("font-size", "11pt");
+                        }
+						var sortedtopics = d.topics.sort(function(a, b) { return parseFloat(a.p) < parseFloat(b.p); });
+						var tops = self.selectAll("rect.topic").data(sortedtopics);
+						tops
+							.attr("height", function(td, ti) { 
+								var bar = td.p*(h-20);
+								return bar;
+							})
+							.attr("transform", function(td, ti){
+								return "translate("+[0, td.offset*(h-20)]+")"; 
+							})
+							.attr("fill", function(td, ti) { return colors[ti]; });
+						tops.enter()
+							.append("rect").classed("topic", true)
+								.attr("width", 45)
+								.attr("height", function(td, ti) { 
+									var bar = td.p*(h-20);
+									return bar;
+								})
+								.attr("transform", function(td, ti){
+									return "translate("+[0, td.offset*(h-20)]+")"; 
+								})
+								.attr("fill", function(td, ti) { return colors[ti]; });
+					});
+
+            /**
+             * TOPICS
+             */
+            var topicData = {};
+            for (var item of data) {
+                for (var top of item.topics) {
+                    if (topicData[top.tid] === undefined) {
+                        topicData[top.tid] = {
+                            "tid": top.tid,
+                            "docs": [{"did": item.did, "p": top.p}],
+                            "name": top.name
+                        };
+                    }
+                    else {
+                        topicData[top.tid].docs.push({"did": item.did, "p": top.p});
+                    }
+                }
+            }
+            var tdata = [];
+            for (var it in topicData) {
+                tdata.push(topicData[it]);
+            }
+
+            var tops = topg.selectAll("g.topic").data(tdata);
+            tops.enter().append("g").classed("topic", true)
+                .attr("transform", function(d, i) {
+                    return "translate("+[40+i*es+i*2, 0]+")";
+                })
+                .each(function(d, i){
+                    var self = d3.select(this);
+                    var r = self.selectAll("rect.intersect").data(d.docs);
+                    r.enter().append("rect")
+                        .attr("class", function(dd, di) {
+                            return "intersect t-" + d.tid + " d-" + dd.did;
+                        })
+                        .attr("fill", function(dd, di) {
+                            var p = parseFloat(dd.p);
+                            if (p>tsteps[4]) return tcolor[4];
+                            if (p>tsteps[3]) return tcolor[3];
+                            if (p>tsteps[2]) return tcolor[2];
+                            if (p>tsteps[1]) return tcolor[1];
+                            if (p>tsteps[0]) return tcolor[0];
+                            return "#ffffff";
+                        })
+                        .attr("y", function(dd, di) {
+                            var docIndex = parseInt(dd.did);
+                            return docIndex*es+docIndex*2; 
+                        })
+                        .attr("x", 0)
+                        .attr("transform", "translate(0,30)")
+                        .attr("height", es)
+                        .attr("width", es);
+                    self.append("text")
+                        .attr("id", "t-"+d.tid)
+                        .attr("transform", "rotate(90)")
+                        .attr("x", 12)
+                        .attr("y", -4)
+                        .text("t " + d.tid)
+                        .on("click", function() {
+                            var tid = d.tid;
+                            d3.selectAll("rect.intersect")
+                                .each(function() {
+                                    var current = d3.select(this);
+                                    var act = current.classed("t-"+tid);
+                                    current.classed("active", act);
+                                });
+                            updateTopicSummary(d);
+                        });
+                });
+            // print doc IDs
+            for(i=1; i<=127; i++) {
+                topg.append("text")
+                    .attr("x", 36)
+                    .attr("y", 45+i*es+i*2)
+                    .text("d " + i)
+                    .attr("id", "d-"+i)
+                    .attr("text-anchor", "end");
+            }
+            // Enable activate All button
+            $("button#allActive").click(function() {
+                d3.selectAll("rect.intersect").classed("active", true);
+            });
+		});
+
+		function updateDetails(data) {
+			var details = d3.select("div#document-info");
+			details.select("p#did").text("Document ID: " + data.did);
+			details.select("p#file").text("Filename: " + data.filename);
+			var tops = details.select("ul").selectAll("li").data(data.topics);
+			tops
+				.text(function(td, ti){ return td.name + ": " + td.p; })
+                .style("color", function(td, ti) { return colors[ti]; });
+			tops.enter()
+				.append("li").text(function(td, ti){ return td.name + ": " + td.p; })
+				.style("color", function(td, ti) { return colors[ti]; });
+			tops.exit()
+				.remove();
+		}
+
+        function updateTopicSummary(data) {
+            var summary = d3.select("div#topic-info");
+            summary.select("h4#topic-id").text(data.name + " (" + data.tid + ")");
+            var docs = summary.select("ul").selectAll("li").data(data.docs);
+            docs
+                .text(function(td, ti){ return "d " + td.did + ": " + td.p; })
+                .style("color", function(td, ti) {
+                    var p = parseFloat(td.p);
+                    if (p>tsteps[4]) return tcolor[4];
+                    if (p>tsteps[3]) return tcolor[3];
+                    if (p>tsteps[2]) return tcolor[2];
+                    if (p>tsteps[1]) return tcolor[1];
+                    if (p>tsteps[0]) return tcolor[0];
+                    return "#cc7777";
+                });
+            docs.enter()
+                .append("li").text(function(td, ti){ return "d " + td.did + ": " + td.p; })
+                .style("color", function(td, ti) {
+                    var p = parseFloat(td.p);
+                    if (p>tsteps[4]) return tcolor[4];
+                    if (p>tsteps[3]) return tcolor[3];
+                    if (p>tsteps[2]) return tcolor[2];
+                    if (p>tsteps[1]) return tcolor[1];
+                    if (p>tsteps[0]) return tcolor[0];
+                    return "#cc7777";
+                });
+            docs.exit()
+                .remove();
+
+            // ******************************
+            // TOPIC IMPORTANCE
+            var impContainer = d3.select("div#top-importance");
+            impContainer.html(null);
+            var impsvg = impContainer.append("svg")
+                .attr("width", 310)
+                .attr("height", 300);
+            var impg = impsvg.append("g");
+            // Count of doc for which this topic has a p of
+            // exact 0, <.1, <.2, <.3, [...], <1.0
+            var impData  = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
+            var steps = [0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1];
+            var newdata = data.docs.map(function(el) { return parseFloat(el.p); });
+            for (var item of newdata) {
+                var p = item;
+                if(p<=steps[0]) { impData[0]++; continue; }
+                if(p<=steps[1]) { impData[1]++; continue; }
+                if(p<=steps[2]) { impData[2]++; continue; }
+                if(p<=steps[3]) { impData[3]++; continue; }
+                if(p<=steps[4]) { impData[4]++; continue; }
+                if(p<=steps[5]) { impData[5]++; continue; }
+                if(p<=steps[6]) { impData[6]++; continue; }
+                if(p<=steps[7]) { impData[7]++; continue; }
+                if(p<=steps[8]) { impData[8]++; continue; }
+                if(p<=steps[9]) { impData[9]++; continue; }
+                if(p<=steps[10]) { impData[10]++; continue; }
+            }
+            var bar = impg.selectAll(".bar")
+                .data(impData)
+                .enter().append("g")
+                    .attr("class", "bar")
+                    .attr("transform", function(d, i) {
+                        return "translate(" + [i * 300 / 11 + 10, 0] + ")";
+                    });
+            bar.append("rect")
+                .attr("x", 0)
+                .attr("y", function(d) { return 300-(300 * d / 30); })
+                .attr("width", 300/11)
+                .attr("height", function(d) { return 300 * d / 30; })
+                .attr("fill", function(d, i) {
+                    if (i===0) return "#cc7777";
+                    if (i>5) return tcolor[4];
+                    if (i>4) return tcolor[3];
+                    if (i>2) return tcolor[2];
+                    if (i>1) return tcolor[1];
+                    if (i>0) return tcolor[0];
+                    return "#cc7777";
+                });
+            impg.append("rect")
+                .attr("width", 2)
+                .attr("height", 300)
+                .attr("x", 10);
+            impg.append("rect")
+                .attr("width", 300)
+                .attr("height", 3)
+                .attr("y", 298);
+            impg.append("rect")
+                .attr("width", 10)
+                .attr("height", 2)
+                .attr("y", 100);
+            impg.append("rect")
+                .attr("width", 10)
+                .attr("height", 2)
+                .attr("y", 200);
+            impg.append("text")
+                .style("font-size", "9px")
+                .text("10")
+                .attr("y",200);
+            impg.append("text")
+                .style("font-size", "9px")
+                .text("20")
+                .attr("y", 100);
+        }
+	});
+</script>
+</body>
+</html>

@@ -1,0 +1,4490 @@
+[
+  {
+    "filename": "cor_tama_krsi-krel_19330329_or_neli_d04.xml",
+    "did": "114",
+    "topics": [
+      {
+        "tid": "10",
+        "p": 0.00013715871540578113,
+        "name": "Hilfe",
+        "offset": 0
+      },
+      {
+        "tid": "27",
+        "p": 0.5972234266213834,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0.00013715871540578113
+      },
+      {
+        "tid": "9",
+        "p": 0.18591217896279935,
+        "name": "Gesundheit",
+        "offset": 0.5973605853367892
+      },
+      {
+        "tid": "17",
+        "p": 0.14279808450763415,
+        "name": "Publizistik",
+        "offset": 0.7832727642995885
+      },
+      {
+        "tid": "4",
+        "p": 0.07392915119277736,
+        "name": "Buchhandel",
+        "offset": 0.9260708488072227
+      }
+    ]
+  },
+  {
+    "filename": "cor_kehe-keto_neal-neki_19500812_or_01.xml",
+    "did": "48",
+    "topics": [
+      {
+        "tid": "9",
+        "p": 0.0002983322604360121,
+        "name": "Gesundheit",
+        "offset": 0
+      },
+      {
+        "tid": "1",
+        "p": 0.00022247848115325569,
+        "name": "Alltag",
+        "offset": 0.0002983322604360121
+      },
+      {
+        "tid": "4",
+        "p": 0.00016701415512179648,
+        "name": "Buchhandel",
+        "offset": 0.0005208107415892678
+      },
+      {
+        "tid": "13",
+        "p": 0.00013737699714979785,
+        "name": "Literatur",
+        "offset": 0.0006878248967110642
+      },
+      {
+        "tid": "7",
+        "p": 0.00013655756525257845,
+        "name": "Geld",
+        "offset": 0.0008252018938608621
+      },
+      {
+        "tid": "18",
+        "p": 0.49069526806819547,
+        "name": "Reise",
+        "offset": 0.0009617594591134406
+      },
+      {
+        "tid": "24",
+        "p": 0.25685625504336435,
+        "name": "Verwandschaft",
+        "offset": 0.4916570275273089
+      },
+      {
+        "tid": "8",
+        "p": 0.11008493576794365,
+        "name": "Gesellschaftsordnung",
+        "offset": 0.7485132825706733
+      },
+      {
+        "tid": "27",
+        "p": 0.06882751901015761,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0.8585982183386169
+      },
+      {
+        "tid": "14",
+        "p": 0.06859977806912738,
+        "name": "Nachkriegszeit",
+        "offset": 0.9274257373487745
+      },
+      {
+        "tid": "16",
+        "p": 0.003974484582097657,
+        "name": "Post",
+        "offset": 0.996025515417902
+      }
+    ]
+  },
+  {
+    "filename": "cor_makl_kehe_19340328_or_01.xml",
+    "did": "68",
+    "topics": [
+      {
+        "tid": "4",
+        "p": 0.00047810544819681223,
+        "name": "Buchhandel",
+        "offset": 0
+      },
+      {
+        "tid": "27",
+        "p": 0.9376038591546901,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0.00047810544819681223
+      },
+      {
+        "tid": "20",
+        "p": 0.06191803539711323,
+        "name": "Textproduktion",
+        "offset": 0.938081964602887
+      }
+    ]
+  },
+  {
+    "filename": "cor_kehe_makl_19370124_or_01.xml",
+    "did": "31",
+    "topics": [
+      {
+        "tid": "10",
+        "p": 1.0,
+        "name": "Hilfe",
+        "offset": 0
+      },
+      {
+        "tid": "19",
+        "p": 0.0,
+        "name": "Rezension",
+        "offset": 1.0
+      },
+      {
+        "tid": "11",
+        "p": 0.0,
+        "name": "Judentum",
+        "offset": 1.0
+      },
+      {
+        "tid": "13",
+        "p": 0.0,
+        "name": "Literatur",
+        "offset": 1.0
+      },
+      {
+        "tid": "20",
+        "p": 0.0,
+        "name": "Textproduktion",
+        "offset": 1.0
+      },
+      {
+        "tid": "27",
+        "p": 0.0,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 1.0
+      },
+      {
+        "tid": "16",
+        "p": 0.0,
+        "name": "Post",
+        "offset": 1.0
+      },
+      {
+        "tid": "17",
+        "p": 0.0,
+        "name": "Publizistik",
+        "offset": 1.0
+      }
+    ]
+  },
+  {
+    "filename": "cor_makl_kehe_19490520_or_01.xml",
+    "did": "71",
+    "topics": [
+      {
+        "tid": "12",
+        "p": 0.4138023885398179,
+        "name": "Leid",
+        "offset": 0
+      },
+      {
+        "tid": "20",
+        "p": 0.2539171988505971,
+        "name": "Textproduktion",
+        "offset": 0.4138023885398179
+      },
+      {
+        "tid": "27",
+        "p": 0.14633966024786357,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0.6677195873904149
+      },
+      {
+        "tid": "3",
+        "p": 0.10817712485783948,
+        "name": "Auswanderung",
+        "offset": 0.8140592476382785
+      },
+      {
+        "tid": "18",
+        "p": 0.07776362750388185,
+        "name": "Reise",
+        "offset": 0.922236372496118
+      }
+    ]
+  },
+  {
+    "filename": "cor_brjo_makl_19370330_or_01.xml",
+    "did": "7",
+    "topics": [
+      {
+        "tid": "29",
+        "p": 1.0,
+        "name": "nonsense label '29'",
+        "offset": 0
+      },
+      {
+        "tid": "17",
+        "p": 0.0,
+        "name": "Publizistik",
+        "offset": 1.0
+      },
+      {
+        "tid": "27",
+        "p": 0.0,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 1.0
+      },
+      {
+        "tid": "12",
+        "p": 0.0,
+        "name": "Leid",
+        "offset": 1.0
+      }
+    ]
+  },
+  {
+    "filename": "cor_frbr_kehe_19330722_or_01.xml",
+    "did": "15",
+    "topics": [
+      {
+        "tid": "20",
+        "p": 1.0,
+        "name": "Textproduktion",
+        "offset": 0
+      },
+      {
+        "tid": "13",
+        "p": 0.0,
+        "name": "Literatur",
+        "offset": 1.0
+      },
+      {
+        "tid": "27",
+        "p": 0.0,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 1.0
+      },
+      {
+        "tid": "4",
+        "p": 0.0,
+        "name": "Buchhandel",
+        "offset": 1.0
+      },
+      {
+        "tid": "17",
+        "p": 0.0,
+        "name": "Publizistik",
+        "offset": 1.0
+      }
+    ]
+  },
+  {
+    "filename": "cor_krsi_bego_19330318_cc_neli_d06.xml",
+    "did": "58",
+    "topics": [
+      {
+        "tid": "13",
+        "p": 0.0004473857580201141,
+        "name": "Literatur",
+        "offset": 0
+      },
+      {
+        "tid": "4",
+        "p": 0.663786853371395,
+        "name": "Buchhandel",
+        "offset": 0.0004473857580201141
+      },
+      {
+        "tid": "17",
+        "p": 0.33576576087058485,
+        "name": "Publizistik",
+        "offset": 0.6642342391294151
+      }
+    ]
+  },
+  {
+    "filename": "cor_scre_kehe_19370630_or_01.xml",
+    "did": "99",
+    "topics": [
+      {
+        "tid": "9",
+        "p": 0.37121101830131525,
+        "name": "Gesundheit",
+        "offset": 0
+      },
+      {
+        "tid": "26",
+        "p": 0.1947761060223349,
+        "name": "Zweiter Weltkrieg",
+        "offset": 0.37121101830131525
+      },
+      {
+        "tid": "17",
+        "p": 0.18735360650538743,
+        "name": "Publizistik",
+        "offset": 0.5659871243236502
+      },
+      {
+        "tid": "20",
+        "p": 0.12584803416476462,
+        "name": "Textproduktion",
+        "offset": 0.7533407308290376
+      },
+      {
+        "tid": "1",
+        "p": 0.12081123500619487,
+        "name": "Alltag",
+        "offset": 0.8791887649938023
+      }
+    ]
+  },
+  {
+    "filename": "cor_tama_neal_19450706_or_01.xml",
+    "did": "116",
+    "topics": [
+      {
+        "tid": "13",
+        "p": 8.731016730969317e-06,
+        "name": "Literatur",
+        "offset": 0
+      },
+      {
+        "tid": "4",
+        "p": 0.00018740007138341716,
+        "name": "Buchhandel",
+        "offset": 8.731016730969317e-06
+      },
+      {
+        "tid": "14",
+        "p": 0.8297092403213043,
+        "name": "Nachkriegszeit",
+        "offset": 0.00019613108811438647
+      },
+      {
+        "tid": "27",
+        "p": 0.1700946285905802,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0.8299053714094187
+      }
+    ]
+  },
+  {
+    "filename": "cor_meju_krsi_19341220_or_neli_d08.xml",
+    "did": "76",
+    "topics": [
+      {
+        "tid": "17",
+        "p": 0.00033694875676678465,
+        "name": "Publizistik",
+        "offset": 0
+      },
+      {
+        "tid": "27",
+        "p": 0.48994852917565135,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0.00033694875676678465
+      },
+      {
+        "tid": "19",
+        "p": 0.3357145614589949,
+        "name": "Rezension",
+        "offset": 0.4902854779324181
+      },
+      {
+        "tid": "13",
+        "p": 0.17399996060858658,
+        "name": "Literatur",
+        "offset": 0.8260000393914131
+      }
+    ]
+  },
+  {
+    "filename": "cor_krsi-krel_tama_19330311_cc_neli_d04.xml",
+    "did": "63",
+    "topics": [
+      {
+        "tid": "12",
+        "p": 0.402449085173865,
+        "name": "Leid",
+        "offset": 0
+      },
+      {
+        "tid": "4",
+        "p": 0.3450708913160918,
+        "name": "Buchhandel",
+        "offset": 0.402449085173865
+      },
+      {
+        "tid": "1",
+        "p": 0.1947310453964278,
+        "name": "Alltag",
+        "offset": 0.7475199764899568
+      },
+      {
+        "tid": "9",
+        "p": 0.057748978113615394,
+        "name": "Gesundheit",
+        "offset": 0.9422510218863847
+      }
+    ]
+  },
+  {
+    "filename": "cor_kehe_koan_19491002_tr_01.xml",
+    "did": "27",
+    "topics": [
+      {
+        "tid": "14",
+        "p": 1.0,
+        "name": "Nachkriegszeit",
+        "offset": 0
+      },
+      {
+        "tid": "27",
+        "p": 0.0,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 1.0
+      },
+      {
+        "tid": "18",
+        "p": 0.0,
+        "name": "Reise",
+        "offset": 1.0
+      },
+      {
+        "tid": "13",
+        "p": 0.0,
+        "name": "Literatur",
+        "offset": 1.0
+      },
+      {
+        "tid": "17",
+        "p": 0.0,
+        "name": "Publizistik",
+        "offset": 1.0
+      }
+    ]
+  },
+  {
+    "filename": "cor_kehe_weer_19390218_tr_01.xml",
+    "did": "46",
+    "topics": [
+      {
+        "tid": "27",
+        "p": 0.0006974695728744206,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0
+      },
+      {
+        "tid": "17",
+        "p": 0.00023410327465339718,
+        "name": "Publizistik",
+        "offset": 0.0006974695728744206
+      },
+      {
+        "tid": "4",
+        "p": 0.00011875691723869973,
+        "name": "Buchhandel",
+        "offset": 0.0009315728475278178
+      },
+      {
+        "tid": "18",
+        "p": 0.0001117598649684927,
+        "name": "Reise",
+        "offset": 0.0010503297647665175
+      },
+      {
+        "tid": "16",
+        "p": 0.3903629937840602,
+        "name": "Post",
+        "offset": 0.0011620896297350103
+      },
+      {
+        "tid": "9",
+        "p": 0.2459832759637828,
+        "name": "Gesundheit",
+        "offset": 0.3915250834137952
+      },
+      {
+        "tid": "20",
+        "p": 0.1866861406691269,
+        "name": "Textproduktion",
+        "offset": 0.637508359377578
+      },
+      {
+        "tid": "19",
+        "p": 0.17580549995329475,
+        "name": "Rezension",
+        "offset": 0.8241945000467049
+      }
+    ]
+  },
+  {
+    "filename": "cor_krsi_tama_19341031_cc_neli_d04.xml",
+    "did": "62",
+    "topics": [
+      {
+        "tid": "18",
+        "p": 0.000785730523703381,
+        "name": "Reise",
+        "offset": 0
+      },
+      {
+        "tid": "13",
+        "p": 0.0003430863045368296,
+        "name": "Literatur",
+        "offset": 0.000785730523703381
+      },
+      {
+        "tid": "19",
+        "p": 0.0003126713633278004,
+        "name": "Rezension",
+        "offset": 0.0011288168282402107
+      },
+      {
+        "tid": "7",
+        "p": 0.00023238460171576904,
+        "name": "Geld",
+        "offset": 0.0014414881915680111
+      },
+      {
+        "tid": "4",
+        "p": 0.396814025988738,
+        "name": "Buchhandel",
+        "offset": 0.00167387279328378
+      },
+      {
+        "tid": "16",
+        "p": 0.27725377713160043,
+        "name": "Post",
+        "offset": 0.3984878987820218
+      },
+      {
+        "tid": "20",
+        "p": 0.18992557126020107,
+        "name": "Textproduktion",
+        "offset": 0.6757416759136222
+      },
+      {
+        "tid": "27",
+        "p": 0.13286232611665685,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0.8656672471738233
+      },
+      {
+        "tid": "10",
+        "p": 0.0014704267095190752,
+        "name": "Hilfe",
+        "offset": 0.9985295732904801
+      }
+    ]
+  },
+  {
+    "filename": "cor_brjo_math_19340901_or_neli_d11.xml",
+    "did": "9",
+    "topics": [
+      {
+        "tid": "22",
+        "p": 0.0002654465024872823,
+        "name": "Verfolgung",
+        "offset": 0
+      },
+      {
+        "tid": "25",
+        "p": 0.0002248926341637165,
+        "name": "Zensur",
+        "offset": 0.0002654465024872823
+      },
+      {
+        "tid": "3",
+        "p": 0.0001088624654665415,
+        "name": "Auswanderung",
+        "offset": 0.0004903391366509988
+      },
+      {
+        "tid": "11",
+        "p": 0.764978098552844,
+        "name": "Judentum",
+        "offset": 0.0005992016021175403
+      },
+      {
+        "tid": "27",
+        "p": 0.10864497035310132,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0.7655773001549616
+      },
+      {
+        "tid": "5",
+        "p": 0.0826950363072965,
+        "name": "Drittes Reich",
+        "offset": 0.8742222705080629
+      },
+      {
+        "tid": "19",
+        "p": 0.04308269318464085,
+        "name": "Rezension",
+        "offset": 0.9569173068153594
+      }
+    ]
+  },
+  {
+    "filename": "cor_scsa_krsi_19470905_or_neli_d04.xml",
+    "did": "107",
+    "topics": [
+      {
+        "tid": "23",
+        "p": 0.47873033248301017,
+        "name": "Verwaltung",
+        "offset": 0
+      },
+      {
+        "tid": "4",
+        "p": 0.2973898142154233,
+        "name": "Buchhandel",
+        "offset": 0.47873033248301017
+      },
+      {
+        "tid": "2",
+        "p": 0.22387985330156665,
+        "name": "Angst",
+        "offset": 0.7761201466984335
+      }
+    ]
+  },
+  {
+    "filename": "cor_scre_zwst_19380425_or_neli_d06.xml",
+    "did": "106",
+    "topics": [
+      {
+        "tid": "27",
+        "p": 0.00011720543310534865,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0
+      },
+      {
+        "tid": "1",
+        "p": 0.4940021411558614,
+        "name": "Alltag",
+        "offset": 0.00011720543310534865
+      },
+      {
+        "tid": "4",
+        "p": 0.24234640869687693,
+        "name": "Buchhandel",
+        "offset": 0.4941193465889667
+      },
+      {
+        "tid": "5",
+        "p": 0.2076725916873932,
+        "name": "Drittes Reich",
+        "offset": 0.7364657552858437
+      },
+      {
+        "tid": "8",
+        "p": 0.05586165302676279,
+        "name": "Gesellschaftsordnung",
+        "offset": 0.9441383469732368
+      }
+    ]
+  },
+  {
+    "filename": "cor_scle_frli-frbr_19400907_or_01.xml",
+    "did": "96",
+    "topics": [
+      {
+        "tid": "16",
+        "p": 1.0,
+        "name": "Post",
+        "offset": 0
+      },
+      {
+        "tid": "18",
+        "p": 0.0,
+        "name": "Reise",
+        "offset": 1.0
+      },
+      {
+        "tid": "3",
+        "p": 0.0,
+        "name": "Auswanderung",
+        "offset": 1.0
+      }
+    ]
+  },
+  {
+    "filename": "cor_zwst_kehe_19410109_b_or_01.xml",
+    "did": "124",
+    "topics": [
+      {
+        "tid": "23",
+        "p": 1.0,
+        "name": "Verwaltung",
+        "offset": 0
+      },
+      {
+        "tid": "3",
+        "p": 0.0,
+        "name": "Auswanderung",
+        "offset": 1.0
+      },
+      {
+        "tid": "27",
+        "p": 0.0,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 1.0
+      },
+      {
+        "tid": "16",
+        "p": 0.0,
+        "name": "Post",
+        "offset": 1.0
+      },
+      {
+        "tid": "18",
+        "p": 0.0,
+        "name": "Reise",
+        "offset": 1.0
+      }
+    ]
+  },
+  {
+    "filename": "cor_frel_kehe_19390426_or_01.xml",
+    "did": "17",
+    "topics": [
+      {
+        "tid": "0",
+        "p": 1.0,
+        "name": "<empty>",
+        "offset": 0
+      }
+    ]
+  },
+  {
+    "filename": "cor_teli_ehal_19461020_cc_neli_d08.xml",
+    "did": "118",
+    "topics": [
+      {
+        "tid": "20",
+        "p": 9.574488153509168e-05,
+        "name": "Textproduktion",
+        "offset": 0
+      },
+      {
+        "tid": "3",
+        "p": 8.682955818000778e-05,
+        "name": "Auswanderung",
+        "offset": 9.574488153509168e-05
+      },
+      {
+        "tid": "8",
+        "p": 5.1480825246171625e-05,
+        "name": "Gesellschaftsordnung",
+        "offset": 0.00018257443971509947
+      },
+      {
+        "tid": "14",
+        "p": 0.5955365130692994,
+        "name": "Nachkriegszeit",
+        "offset": 0.0002340552649612711
+      },
+      {
+        "tid": "16",
+        "p": 0.12003034399782565,
+        "name": "Post",
+        "offset": 0.5957705683342607
+      },
+      {
+        "tid": "13",
+        "p": 0.11735500772789066,
+        "name": "Literatur",
+        "offset": 0.7158009123320863
+      },
+      {
+        "tid": "7",
+        "p": 0.10537895208425148,
+        "name": "Geld",
+        "offset": 0.833155920059977
+      },
+      {
+        "tid": "18",
+        "p": 0.04376591429176501,
+        "name": "Reise",
+        "offset": 0.9385348721442285
+      },
+      {
+        "tid": "9",
+        "p": 0.017699213564006992,
+        "name": "Gesundheit",
+        "offset": 0.9823007864359935
+      }
+    ]
+  },
+  {
+    "filename": "cor_kehe_makl_19351115_or_01.xml",
+    "did": "30",
+    "topics": [
+      {
+        "tid": "0",
+        "p": 1.0,
+        "name": "<empty>",
+        "offset": 0
+      }
+    ]
+  },
+  {
+    "filename": "cor_scre_rojo_19340128_or_01.xml",
+    "did": "104",
+    "topics": [
+      {
+        "tid": "19",
+        "p": 1.0,
+        "name": "Rezension",
+        "offset": 0
+      },
+      {
+        "tid": "4",
+        "p": 0.0,
+        "name": "Buchhandel",
+        "offset": 1.0
+      },
+      {
+        "tid": "27",
+        "p": 0.0,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 1.0
+      }
+    ]
+  },
+  {
+    "filename": "cor_kehe_neal_19490312_tr_01.xml",
+    "did": "36",
+    "topics": [
+      {
+        "tid": "18",
+        "p": 5.945927556727143e-05,
+        "name": "Reise",
+        "offset": 0
+      },
+      {
+        "tid": "17",
+        "p": 5.697135538371291e-05,
+        "name": "Publizistik",
+        "offset": 5.945927556727143e-05
+      },
+      {
+        "tid": "19",
+        "p": 5.389775454296883e-05,
+        "name": "Rezension",
+        "offset": 0.00011643063095098434
+      },
+      {
+        "tid": "16",
+        "p": 4.8579244081269326e-05,
+        "name": "Post",
+        "offset": 0.00017032838549395316
+      },
+      {
+        "tid": "8",
+        "p": 4.245837029577778e-05,
+        "name": "Gesellschaftsordnung",
+        "offset": 0.00021890762957522248
+      },
+      {
+        "tid": "13",
+        "p": 0.00011398648442659323,
+        "name": "Literatur",
+        "offset": 0.00026136599987100023
+      },
+      {
+        "tid": "10",
+        "p": 0.31264530255093986,
+        "name": "Hilfe",
+        "offset": 0.0003753524842975935
+      },
+      {
+        "tid": "5",
+        "p": 0.2141885335544025,
+        "name": "Drittes Reich",
+        "offset": 0.31302065503523746
+      },
+      {
+        "tid": "7",
+        "p": 0.18908601662070057,
+        "name": "Geld",
+        "offset": 0.5272091885896399
+      },
+      {
+        "tid": "20",
+        "p": 0.12839648408092572,
+        "name": "Textproduktion",
+        "offset": 0.7162952052103405
+      },
+      {
+        "tid": "3",
+        "p": 0.12026645628624164,
+        "name": "Auswanderung",
+        "offset": 0.8446916892912663
+      },
+      {
+        "tid": "4",
+        "p": 0.03504185442249232,
+        "name": "Buchhandel",
+        "offset": 0.9649581455775079
+      }
+    ]
+  },
+  {
+    "filename": "cor_hawa_piku_19381029_or_neli_d04.xml",
+    "did": "21",
+    "topics": [
+      {
+        "tid": "0",
+        "p": 1.0,
+        "name": "<empty>",
+        "offset": 0
+      }
+    ]
+  },
+  {
+    "filename": "cor_kehe_toer_19330913_cc_01.xml",
+    "did": "44",
+    "topics": [
+      {
+        "tid": "16",
+        "p": 0.4199235927957392,
+        "name": "Post",
+        "offset": 0
+      },
+      {
+        "tid": "27",
+        "p": 0.2951551541430313,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0.4199235927957392
+      },
+      {
+        "tid": "1",
+        "p": 0.25138362624660787,
+        "name": "Alltag",
+        "offset": 0.7150787469387705
+      },
+      {
+        "tid": "18",
+        "p": 0.03353762681462167,
+        "name": "Reise",
+        "offset": 0.9664623731853783
+      }
+    ]
+  },
+  {
+    "filename": "cor_heku_ehal_19400904_cc_neli_d09.xml",
+    "did": "22",
+    "topics": [
+      {
+        "tid": "0",
+        "p": 1.0,
+        "name": "<empty>",
+        "offset": 0
+      }
+    ]
+  },
+  {
+    "filename": "cor_tama_krsi-krel_19330314_or_neli_d04.xml",
+    "did": "113",
+    "topics": [
+      {
+        "tid": "1",
+        "p": 0.7374134118327109,
+        "name": "Alltag",
+        "offset": 0
+      },
+      {
+        "tid": "14",
+        "p": 0.262586588167289,
+        "name": "Nachkriegszeit",
+        "offset": 0.7374134118327109
+      }
+    ]
+  },
+  {
+    "filename": "cor_brhe_saha_19450222_or_neli_d01.xml",
+    "did": "5",
+    "topics": [
+      {
+        "tid": "15",
+        "p": 0.2676823248977751,
+        "name": "Ost-West-Konflikt",
+        "offset": 0
+      },
+      {
+        "tid": "27",
+        "p": 0.23732126962644576,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0.2676823248977751
+      },
+      {
+        "tid": "8",
+        "p": 0.1988002050545783,
+        "name": "Gesellschaftsordnung",
+        "offset": 0.5050035945242208
+      },
+      {
+        "tid": "20",
+        "p": 0.1838307260976019,
+        "name": "Textproduktion",
+        "offset": 0.7038037995787991
+      },
+      {
+        "tid": "1",
+        "p": 0.08086784883115022,
+        "name": "Alltag",
+        "offset": 0.887634525676401
+      },
+      {
+        "tid": "22",
+        "p": 0.031497625492449374,
+        "name": "Verfolgung",
+        "offset": 0.9685023745075512
+      }
+    ]
+  },
+  {
+    "filename": "cor_neal_kehe_19410330_or_01.xml",
+    "did": "78",
+    "topics": [
+      {
+        "tid": "3",
+        "p": 8.265459377599248e-05,
+        "name": "Auswanderung",
+        "offset": 0
+      },
+      {
+        "tid": "13",
+        "p": 5.4401227240076836e-05,
+        "name": "Literatur",
+        "offset": 8.265459377599248e-05
+      },
+      {
+        "tid": "1",
+        "p": 0.00017332766455823204,
+        "name": "Alltag",
+        "offset": 0.00013705582101606933
+      },
+      {
+        "tid": "6",
+        "p": 0.0001386930394408941,
+        "name": "Film",
+        "offset": 0.0003103834855743014
+      },
+      {
+        "tid": "2",
+        "p": 0.271827092564596,
+        "name": "Angst",
+        "offset": 0.00044907652501519546
+      },
+      {
+        "tid": "27",
+        "p": 0.1876675472427261,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0.27227616908961116
+      },
+      {
+        "tid": "7",
+        "p": 0.14067662200916148,
+        "name": "Geld",
+        "offset": 0.45994371633233727
+      },
+      {
+        "tid": "20",
+        "p": 0.13559467730273667,
+        "name": "Textproduktion",
+        "offset": 0.6006203383414987
+      },
+      {
+        "tid": "10",
+        "p": 0.11679656322910535,
+        "name": "Hilfe",
+        "offset": 0.7362150156442354
+      },
+      {
+        "tid": "16",
+        "p": 0.07451597602145708,
+        "name": "Post",
+        "offset": 0.8530115788733408
+      },
+      {
+        "tid": "22",
+        "p": 0.07247244510520193,
+        "name": "Verfolgung",
+        "offset": 0.9275275548947979
+      }
+    ]
+  },
+  {
+    "filename": "cor_saha_brhe_19441119_cc_neli_d01.xml",
+    "did": "94",
+    "topics": [
+      {
+        "tid": "0",
+        "p": 1.0,
+        "name": "<empty>",
+        "offset": 0
+      }
+    ]
+  },
+  {
+    "filename": "cor_koan_neal_19381224_or_01.xml",
+    "did": "54",
+    "topics": [
+      {
+        "tid": "27",
+        "p": 0.0004521743305159913,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0
+      },
+      {
+        "tid": "4",
+        "p": 0.00022125750151682588,
+        "name": "Buchhandel",
+        "offset": 0.0004521743305159913
+      },
+      {
+        "tid": "7",
+        "p": 0.29522513977715514,
+        "name": "Geld",
+        "offset": 0.0006734318320328172
+      },
+      {
+        "tid": "23",
+        "p": 0.2660590527427737,
+        "name": "Verwaltung",
+        "offset": 0.295898571609188
+      },
+      {
+        "tid": "17",
+        "p": 0.12739274498550013,
+        "name": "Publizistik",
+        "offset": 0.5619576243519617
+      },
+      {
+        "tid": "13",
+        "p": 0.1233892865727914,
+        "name": "Literatur",
+        "offset": 0.6893503693374619
+      },
+      {
+        "tid": "16",
+        "p": 0.08442827915461715,
+        "name": "Post",
+        "offset": 0.8127396559102532
+      },
+      {
+        "tid": "9",
+        "p": 0.0531541528180152,
+        "name": "Gesundheit",
+        "offset": 0.8971679350648704
+      },
+      {
+        "tid": "18",
+        "p": 0.04967791211711462,
+        "name": "Reise",
+        "offset": 0.9503220878828855
+      }
+    ]
+  },
+  {
+    "filename": "cor_saha_brhe_19450310_cc_neli_d01.xml",
+    "did": "95",
+    "topics": [
+      {
+        "tid": "8",
+        "p": 0.6511998143755966,
+        "name": "Gesellschaftsordnung",
+        "offset": 0
+      },
+      {
+        "tid": "13",
+        "p": 0.20053391599019435,
+        "name": "Literatur",
+        "offset": 0.6511998143755966
+      },
+      {
+        "tid": "3",
+        "p": 0.1482662696342068,
+        "name": "Auswanderung",
+        "offset": 0.8517337303657909
+      }
+    ]
+  },
+  {
+    "filename": "cor_neal_scre_19331211_or_neli_d03.xml",
+    "did": "85",
+    "topics": [
+      {
+        "tid": "18",
+        "p": 4.658400088707029e-05,
+        "name": "Reise",
+        "offset": 0
+      },
+      {
+        "tid": "4",
+        "p": 3.374718760592269e-05,
+        "name": "Buchhandel",
+        "offset": 4.658400088707029e-05
+      },
+      {
+        "tid": "13",
+        "p": 1.0534734272167297e-05,
+        "name": "Literatur",
+        "offset": 8.033118849299298e-05
+      },
+      {
+        "tid": "2",
+        "p": 0.9999697616730556,
+        "name": "Angst",
+        "offset": 9.086592276516028e-05
+      },
+      {
+        "tid": "1",
+        "p": 0.0,
+        "name": "Alltag",
+        "offset": 1.0000606275958208
+      },
+      {
+        "tid": "25",
+        "p": 0.0,
+        "name": "Zensur",
+        "offset": 1.0000606275958208
+      }
+    ]
+  },
+  {
+    "filename": "cor_kon_kehe-keto_19491004_or_01.xml",
+    "did": "57",
+    "topics": [
+      {
+        "tid": "7",
+        "p": 0.6558742719506742,
+        "name": "Geld",
+        "offset": 0
+      },
+      {
+        "tid": "12",
+        "p": 0.256272809933074,
+        "name": "Leid",
+        "offset": 0.6558742719506742
+      },
+      {
+        "tid": "21",
+        "p": 0.08785291811625141,
+        "name": "Tod",
+        "offset": 0.9121470818837482
+      }
+    ]
+  },
+  {
+    "filename": "cor_makl_feli_19370906_co_01.xml",
+    "did": "66",
+    "topics": [
+      {
+        "tid": "8",
+        "p": 0.5414591888423536,
+        "name": "Gesellschaftsordnung",
+        "offset": 0
+      },
+      {
+        "tid": "27",
+        "p": 0.45854081115764644,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0.5414591888423536
+      }
+    ]
+  },
+  {
+    "filename": "cor_scre_makl_19331012_or_01.xml",
+    "did": "100",
+    "topics": [
+      {
+        "tid": "25",
+        "p": 1.0,
+        "name": "Zensur",
+        "offset": 0
+      },
+      {
+        "tid": "4",
+        "p": 0.0,
+        "name": "Buchhandel",
+        "offset": 1.0
+      }
+    ]
+  },
+  {
+    "filename": "18 1 8",
+    "did": "79",
+    "topics": [
+      {
+        "tid": "3",
+        "p": 0.0008265252538790863,
+        "name": "Auswanderung",
+        "offset": 0
+      },
+      {
+        "tid": "481",
+        "p": 0.999173474746121,
+        "name": "nonsense label '481'",
+        "offset": 0.0008265252538790863
+      }
+    ]
+  },
+  {
+    "filename": "cor_kehe_koan_19470506_cc_01.xml",
+    "did": "26",
+    "topics": [
+      {
+        "tid": "0",
+        "p": 1.0,
+        "name": "<empty>",
+        "offset": 0
+      }
+    ]
+  },
+  {
+    "filename": "cor_saha_brhe_19411203_cc_neli_d01.xml",
+    "did": "92",
+    "topics": [
+      {
+        "tid": "19",
+        "p": 1.0,
+        "name": "Rezension",
+        "offset": 0
+      },
+      {
+        "tid": "20",
+        "p": 0.0,
+        "name": "Textproduktion",
+        "offset": 1.0
+      }
+    ]
+  },
+  {
+    "filename": "cor_kehe_piku_19461221_or_neli_d08.xml",
+    "did": "39",
+    "topics": [
+      {
+        "tid": "20",
+        "p": 2.0959599605881928e-06,
+        "name": "Textproduktion",
+        "offset": 0
+      },
+      {
+        "tid": "18",
+        "p": 1.0,
+        "name": "Reise",
+        "offset": 2.0959599605881928e-06
+      },
+      {
+        "tid": "27",
+        "p": 0.0,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 1.0000020959599605
+      },
+      {
+        "tid": "4",
+        "p": 0.0,
+        "name": "Buchhandel",
+        "offset": 1.0000020959599605
+      },
+      {
+        "tid": "16",
+        "p": 0.0,
+        "name": "Post",
+        "offset": 1.0000020959599605
+      },
+      {
+        "tid": "13",
+        "p": 0.0,
+        "name": "Literatur",
+        "offset": 1.0000020959599605
+      }
+    ]
+  },
+  {
+    "filename": "cor_tama_krsi-krel_193302-0828-31_or_neli_d07.xml",
+    "did": "112",
+    "topics": [
+      {
+        "tid": "16",
+        "p": 1.0,
+        "name": "Post",
+        "offset": 0
+      },
+      {
+        "tid": "3",
+        "p": 0.0,
+        "name": "Auswanderung",
+        "offset": 1.0
+      },
+      {
+        "tid": "27",
+        "p": 0.0,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 1.0
+      }
+    ]
+  },
+  {
+    "filename": "cor_neal_kehe_19330630_or_01.xml",
+    "did": "77",
+    "topics": [
+      {
+        "tid": "20",
+        "p": 1.0,
+        "name": "Textproduktion",
+        "offset": 0
+      }
+    ]
+  },
+  {
+    "filename": "cor_brjo_math_19340708_cc_neli_d11.xml",
+    "did": "8",
+    "topics": [
+      {
+        "tid": "18",
+        "p": 0.00012581542558861802,
+        "name": "Reise",
+        "offset": 0
+      },
+      {
+        "tid": "19",
+        "p": 0.5383766511947328,
+        "name": "Rezension",
+        "offset": 0.00012581542558861802
+      },
+      {
+        "tid": "17",
+        "p": 0.21288058853496117,
+        "name": "Publizistik",
+        "offset": 0.5385024666203214
+      },
+      {
+        "tid": "27",
+        "p": 0.13033593495308257,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0.7513830551552826
+      },
+      {
+        "tid": "3",
+        "p": 0.0714061923405197,
+        "name": "Auswanderung",
+        "offset": 0.8817189901083652
+      },
+      {
+        "tid": "4",
+        "p": 0.046874817551115035,
+        "name": "Buchhandel",
+        "offset": 0.9531251824488849
+      }
+    ]
+  },
+  {
+    "filename": "cor_tama_krsi_19340410_or_neli_d04.xml",
+    "did": "110",
+    "topics": [
+      {
+        "tid": "13",
+        "p": 0.0008163733595815803,
+        "name": "Literatur",
+        "offset": 0
+      },
+      {
+        "tid": "9",
+        "p": 0.0004321014912111801,
+        "name": "Gesundheit",
+        "offset": 0.0008163733595815803
+      },
+      {
+        "tid": "18",
+        "p": 0.00023281132564419746,
+        "name": "Reise",
+        "offset": 0.0012484748507927603
+      },
+      {
+        "tid": "27",
+        "p": 0.6756785255610914,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0.0014812861764369578
+      },
+      {
+        "tid": "7",
+        "p": 0.22063573659651625,
+        "name": "Geld",
+        "offset": 0.6771598117375284
+      },
+      {
+        "tid": "4",
+        "p": 0.10220445166595522,
+        "name": "Buchhandel",
+        "offset": 0.8977955483340446
+      }
+    ]
+  },
+  {
+    "filename": "cor_ehal_heku_19460316_or_neli_d09.xml",
+    "did": "13",
+    "topics": [
+      {
+        "tid": "23",
+        "p": 0.5485090590037147,
+        "name": "Verwaltung",
+        "offset": 0
+      },
+      {
+        "tid": "4",
+        "p": 0.2796497081271966,
+        "name": "Buchhandel",
+        "offset": 0.5485090590037147
+      },
+      {
+        "tid": "27",
+        "p": 0.10184364375536645,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0.8281587671309113
+      },
+      {
+        "tid": "26",
+        "p": 0.06751131467640223,
+        "name": "Zweiter Weltkrieg",
+        "offset": 0.9300024108862778
+      },
+      {
+        "tid": "14",
+        "p": 0.0024862744373193193,
+        "name": "Nachkriegszeit",
+        "offset": 0.99751372556268
+      }
+    ]
+  },
+  {
+    "filename": "cor_koan_stth_19320221_or_neli_d01.xml",
+    "did": "55",
+    "topics": [
+      {
+        "tid": "24",
+        "p": 1.0,
+        "name": "Verwandschaft",
+        "offset": 0
+      },
+      {
+        "tid": "7",
+        "p": 0.0,
+        "name": "Geld",
+        "offset": 1.0
+      },
+      {
+        "tid": "16",
+        "p": 0.0,
+        "name": "Post",
+        "offset": 1.0
+      },
+      {
+        "tid": "14",
+        "p": 0.0,
+        "name": "Nachkriegszeit",
+        "offset": 1.0
+      },
+      {
+        "tid": "27",
+        "p": 0.0,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 1.0
+      },
+      {
+        "tid": "8",
+        "p": 0.0,
+        "name": "Gesellschaftsordnung",
+        "offset": 1.0
+      },
+      {
+        "tid": "13",
+        "p": 0.0,
+        "name": "Literatur",
+        "offset": 1.0
+      },
+      {
+        "tid": "18",
+        "p": 0.0,
+        "name": "Reise",
+        "offset": 1.0
+      },
+      {
+        "tid": "4",
+        "p": 0.0,
+        "name": "Buchhandel",
+        "offset": 1.0
+      },
+      {
+        "tid": "1",
+        "p": 0.0,
+        "name": "Alltag",
+        "offset": 1.0
+      },
+      {
+        "tid": "9",
+        "p": 0.0,
+        "name": "Gesundheit",
+        "offset": 1.0
+      }
+    ]
+  },
+  {
+    "filename": "cor_kehe_makl_19480402_or_01.xml",
+    "did": "34",
+    "topics": [
+      {
+        "tid": "16",
+        "p": 8.952206142574236e-05,
+        "name": "Post",
+        "offset": 0
+      },
+      {
+        "tid": "20",
+        "p": 8.313982225191454e-05,
+        "name": "Textproduktion",
+        "offset": 8.952206142574236e-05
+      },
+      {
+        "tid": "27",
+        "p": 0.00039941986242951857,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0.00017266188367765688
+      },
+      {
+        "tid": "24",
+        "p": 0.412713400629441,
+        "name": "Verwandschaft",
+        "offset": 0.0005720817461071755
+      },
+      {
+        "tid": "7",
+        "p": 0.2585484943425827,
+        "name": "Geld",
+        "offset": 0.4132854823755482
+      },
+      {
+        "tid": "13",
+        "p": 0.1301664470292169,
+        "name": "Literatur",
+        "offset": 0.6718339767181309
+      },
+      {
+        "tid": "6",
+        "p": 0.06876129321161643,
+        "name": "Film",
+        "offset": 0.8020004237473478
+      },
+      {
+        "tid": "4",
+        "p": 0.05409061443244113,
+        "name": "Buchhandel",
+        "offset": 0.8707617169589642
+      },
+      {
+        "tid": "18",
+        "p": 0.04928197547902777,
+        "name": "Reise",
+        "offset": 0.9248523313914053
+      },
+      {
+        "tid": "21",
+        "p": 0.017239710923375215,
+        "name": "Tod",
+        "offset": 0.9741343068704331
+      },
+      {
+        "tid": "9",
+        "p": 0.008625982206192252,
+        "name": "Gesundheit",
+        "offset": 0.9913740177938083
+      }
+    ]
+  },
+  {
+    "filename": "cor_meju_krsi_19330330_or_neli_d09.xml",
+    "did": "73",
+    "topics": [
+      {
+        "tid": "12",
+        "p": 1.0,
+        "name": "Leid",
+        "offset": 0
+      },
+      {
+        "tid": "22",
+        "p": 0.0,
+        "name": "Verfolgung",
+        "offset": 1.0
+      },
+      {
+        "tid": "10",
+        "p": 0.0,
+        "name": "Hilfe",
+        "offset": 1.0
+      },
+      {
+        "tid": "17",
+        "p": 0.0,
+        "name": "Publizistik",
+        "offset": 1.0
+      },
+      {
+        "tid": "3",
+        "p": 0.0,
+        "name": "Auswanderung",
+        "offset": 1.0
+      },
+      {
+        "tid": "18",
+        "p": 0.0,
+        "name": "Reise",
+        "offset": 1.0
+      }
+    ]
+  },
+  {
+    "filename": "cor_makl_kehe_19330813_or_01.xml",
+    "did": "67",
+    "topics": [
+      {
+        "tid": "4",
+        "p": 0.0007287318158346136,
+        "name": "Buchhandel",
+        "offset": 0
+      },
+      {
+        "tid": "20",
+        "p": 0.0004287915120704198,
+        "name": "Textproduktion",
+        "offset": 0.0007287318158346136
+      },
+      {
+        "tid": "8",
+        "p": 0.0003220102210970136,
+        "name": "Gesellschaftsordnung",
+        "offset": 0.0011575233279050333
+      },
+      {
+        "tid": "2",
+        "p": 0.4505115405672806,
+        "name": "Angst",
+        "offset": 0.0014795335490020468
+      },
+      {
+        "tid": "18",
+        "p": 0.44974366608589245,
+        "name": "Reise",
+        "offset": 0.45199107411628264
+      },
+      {
+        "tid": "27",
+        "p": 0.09826525979782506,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0.9017347402021751
+      }
+    ]
+  },
+  {
+    "filename": "cor_koan_kehe-keto_19460601_or_01.xml",
+    "did": "53",
+    "topics": [
+      {
+        "tid": "17",
+        "p": 0.0006069783178310493,
+        "name": "Publizistik",
+        "offset": 0
+      },
+      {
+        "tid": "23",
+        "p": 5.2842914394755694e-05,
+        "name": "Verwaltung",
+        "offset": 0.0006069783178310493
+      },
+      {
+        "tid": "4",
+        "p": 0.000379338014487341,
+        "name": "Buchhandel",
+        "offset": 0.000659821232225805
+      },
+      {
+        "tid": "13",
+        "p": 0.0003672431892984331,
+        "name": "Literatur",
+        "offset": 0.001039159246713146
+      },
+      {
+        "tid": "27",
+        "p": 0.0003655921445604092,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0.001406402436011579
+      },
+      {
+        "tid": "12",
+        "p": 0.9982280054194279,
+        "name": "Leid",
+        "offset": 0.0017719945805719883
+      }
+    ]
+  },
+  {
+    "filename": "cor_tama_krsi-kres_19320504_or_neli_d05.xml",
+    "did": "115",
+    "topics": [
+      {
+        "tid": "9",
+        "p": 0.00039083826484529084,
+        "name": "Gesundheit",
+        "offset": 0
+      },
+      {
+        "tid": "18",
+        "p": 0.0003384952238096949,
+        "name": "Reise",
+        "offset": 0.00039083826484529084
+      },
+      {
+        "tid": "20",
+        "p": 0.00018733508807208837,
+        "name": "Textproduktion",
+        "offset": 0.0007293334886549858
+      },
+      {
+        "tid": "27",
+        "p": 0.9990833314232729,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0.0009166685767270741
+      }
+    ]
+  },
+  {
+    "filename": "cor_koan_kehe_19460601_or_01.xml",
+    "did": "52",
+    "topics": [
+      {
+        "tid": "7",
+        "p": 0.0003548234990032043,
+        "name": "Geld",
+        "offset": 0
+      },
+      {
+        "tid": "16",
+        "p": 0.00030728912669473156,
+        "name": "Post",
+        "offset": 0.0003548234990032043
+      },
+      {
+        "tid": "18",
+        "p": 0.00029085283246896185,
+        "name": "Reise",
+        "offset": 0.0006621126256979358
+      },
+      {
+        "tid": "20",
+        "p": 0.0001502161140830305,
+        "name": "Textproduktion",
+        "offset": 0.0009529654581668977
+      },
+      {
+        "tid": "12",
+        "p": 0.9988968184277498,
+        "name": "Leid",
+        "offset": 0.0011031815722499282
+      }
+    ]
+  },
+  {
+    "filename": "cor_kehe_wewi_19491019_or_neli_d03.xml",
+    "did": "47",
+    "topics": [
+      {
+        "tid": "17",
+        "p": 4.460110961157133e-06,
+        "name": "Publizistik",
+        "offset": 0
+      },
+      {
+        "tid": "7",
+        "p": 1.0,
+        "name": "Geld",
+        "offset": 4.460110961157133e-06
+      },
+      {
+        "tid": "13",
+        "p": 0.0,
+        "name": "Literatur",
+        "offset": 1.0000044601109612
+      },
+      {
+        "tid": "16",
+        "p": 0.0,
+        "name": "Post",
+        "offset": 1.0000044601109612
+      },
+      {
+        "tid": "18",
+        "p": 0.0,
+        "name": "Reise",
+        "offset": 1.0000044601109612
+      }
+    ]
+  },
+  {
+    "filename": "cor_brjo_stth_19341026_or_neli_d05.xml",
+    "did": "11",
+    "topics": [
+      {
+        "tid": "27",
+        "p": 0.9732336957083838,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0
+      },
+      {
+        "tid": "5",
+        "p": 0.026766304291617287,
+        "name": "Drittes Reich",
+        "offset": 0.9732336957083838
+      }
+    ]
+  },
+  {
+    "filename": "cor_brfe_krsi_19350320_or_neli_d06.xml",
+    "did": "2",
+    "topics": [
+      {
+        "tid": "6",
+        "p": 0.0003869286833554522,
+        "name": "Film",
+        "offset": 0
+      },
+      {
+        "tid": "20",
+        "p": 0.00015073730500988515,
+        "name": "Textproduktion",
+        "offset": 0.0003869286833554522
+      },
+      {
+        "tid": "27",
+        "p": 0.48425616281535916,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0.0005376659883653374
+      },
+      {
+        "tid": "4",
+        "p": 0.2836121130221295,
+        "name": "Buchhandel",
+        "offset": 0.4847938288037245
+      },
+      {
+        "tid": "19",
+        "p": 0.2315940581741459,
+        "name": "Rezension",
+        "offset": 0.768405941825854
+      }
+    ]
+  },
+  {
+    "filename": "cor_neal_tama_19451210_or_01.xml",
+    "did": "87",
+    "topics": [
+      {
+        "tid": "6",
+        "p": 7.460783786609957e-05,
+        "name": "Film",
+        "offset": 0
+      },
+      {
+        "tid": "20",
+        "p": 0.6340130647883734,
+        "name": "Textproduktion",
+        "offset": 7.460783786609957e-05
+      },
+      {
+        "tid": "13",
+        "p": 0.1952841938107122,
+        "name": "Literatur",
+        "offset": 0.6340876726262394
+      },
+      {
+        "tid": "4",
+        "p": 0.1706281335630486,
+        "name": "Buchhandel",
+        "offset": 0.8293718664369516
+      }
+    ]
+  },
+  {
+    "filename": "cor_scle_makl_19370324_or_01.xml",
+    "did": "98",
+    "topics": [
+      {
+        "tid": "17",
+        "p": 0.8629505430220327,
+        "name": "Publizistik",
+        "offset": 0
+      },
+      {
+        "tid": "5",
+        "p": 0.13704945697796642,
+        "name": "Drittes Reich",
+        "offset": 0.8629505430220327
+      }
+    ]
+  },
+  {
+    "filename": "cor_makl_feli_19350819_or_01.xml",
+    "did": "65",
+    "topics": [
+      {
+        "tid": "23",
+        "p": 1.0,
+        "name": "Verwaltung",
+        "offset": 0
+      },
+      {
+        "tid": "4",
+        "p": 0.0,
+        "name": "Buchhandel",
+        "offset": 1.0
+      },
+      {
+        "tid": "17",
+        "p": 0.0,
+        "name": "Publizistik",
+        "offset": 1.0
+      },
+      {
+        "tid": "16",
+        "p": 0.0,
+        "name": "Post",
+        "offset": 1.0
+      },
+      {
+        "tid": "27",
+        "p": 0.0,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 1.0
+      },
+      {
+        "tid": "18",
+        "p": 0.0,
+        "name": "Reise",
+        "offset": 1.0
+      },
+      {
+        "tid": "3",
+        "p": 0.0,
+        "name": "Auswanderung",
+        "offset": 1.0
+      },
+      {
+        "tid": "1",
+        "p": 0.0,
+        "name": "Alltag",
+        "offset": 1.0
+      },
+      {
+        "tid": "10",
+        "p": 0.0,
+        "name": "Hilfe",
+        "offset": 1.0
+      },
+      {
+        "tid": "7",
+        "p": 0.0,
+        "name": "Geld",
+        "offset": 1.0
+      }
+    ]
+  },
+  {
+    "filename": "cor_makl_kehe_19481018_or_01.xml",
+    "did": "70",
+    "topics": [
+      {
+        "tid": "0",
+        "p": 1.0,
+        "name": "<empty>",
+        "offset": 0
+      }
+    ]
+  },
+  {
+    "filename": "cor_kehe_scre_19381030_cc_01.xml",
+    "did": "41",
+    "topics": [
+      {
+        "tid": "5",
+        "p": 0.0005835162113329911,
+        "name": "Drittes Reich",
+        "offset": 0
+      },
+      {
+        "tid": "18",
+        "p": 4.426984214025868e-05,
+        "name": "Reise",
+        "offset": 0.0005835162113329911
+      },
+      {
+        "tid": "4",
+        "p": 0.00029272794300947346,
+        "name": "Buchhandel",
+        "offset": 0.0006277860534732498
+      },
+      {
+        "tid": "27",
+        "p": 0.00020906383031686588,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0.0009205139964827232
+      },
+      {
+        "tid": "2",
+        "p": 0.3774251495097798,
+        "name": "Angst",
+        "offset": 0.0011295778267995892
+      },
+      {
+        "tid": "7",
+        "p": 0.19502623186816767,
+        "name": "Geld",
+        "offset": 0.37855472733657936
+      },
+      {
+        "tid": "19",
+        "p": 0.1396022407238729,
+        "name": "Rezension",
+        "offset": 0.573580959204747
+      },
+      {
+        "tid": "26",
+        "p": 0.12652550846833174,
+        "name": "Zweiter Weltkrieg",
+        "offset": 0.71318319992862
+      },
+      {
+        "tid": "13",
+        "p": 0.08251719601690564,
+        "name": "Literatur",
+        "offset": 0.8397087083969518
+      },
+      {
+        "tid": "16",
+        "p": 0.06371201741756438,
+        "name": "Post",
+        "offset": 0.9222259044138574
+      },
+      {
+        "tid": "20",
+        "p": 0.014062078168578067,
+        "name": "Textproduktion",
+        "offset": 0.9859379218314218
+      }
+    ]
+  },
+  {
+    "filename": "cor_weer_kehe_19330627_or_01.xml",
+    "did": "121",
+    "topics": [
+      {
+        "tid": "13",
+        "p": 0.00030125385363822995,
+        "name": "Literatur",
+        "offset": 0
+      },
+      {
+        "tid": "16",
+        "p": 0.49784070561076915,
+        "name": "Post",
+        "offset": 0.00030125385363822995
+      },
+      {
+        "tid": "20",
+        "p": 0.2809451603361293,
+        "name": "Textproduktion",
+        "offset": 0.49814195946440737
+      },
+      {
+        "tid": "1",
+        "p": 0.11249296412434241,
+        "name": "Alltag",
+        "offset": 0.7790871198005367
+      },
+      {
+        "tid": "27",
+        "p": 0.10841991607511997,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0.8915800839248791
+      }
+    ]
+  },
+  {
+    "filename": "cor_brhe_saha_19430409_or_neli_d02.xml",
+    "did": "4",
+    "topics": [
+      {
+        "tid": "8",
+        "p": 0.000809696387194662,
+        "name": "Gesellschaftsordnung",
+        "offset": 0
+      },
+      {
+        "tid": "27",
+        "p": 0.4900704680091647,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0.000809696387194662
+      },
+      {
+        "tid": "14",
+        "p": 0.26715283958086755,
+        "name": "Nachkriegszeit",
+        "offset": 0.49088016439635934
+      },
+      {
+        "tid": "19",
+        "p": 0.12486124546249348,
+        "name": "Rezension",
+        "offset": 0.758033003977227
+      },
+      {
+        "tid": "13",
+        "p": 0.11562224823864162,
+        "name": "Literatur",
+        "offset": 0.8828942494397204
+      },
+      {
+        "tid": "10",
+        "p": 0.0014835023216378895,
+        "name": "Hilfe",
+        "offset": 0.998516497678362
+      }
+    ]
+  },
+  {
+    "filename": "cor_scre_zwst_19340911_tr_neli_d06.xml",
+    "did": "105",
+    "topics": [
+      {
+        "tid": "8",
+        "p": 6.219043392311311e-05,
+        "name": "Gesellschaftsordnung",
+        "offset": 0
+      },
+      {
+        "tid": "20",
+        "p": 4.36017161336915e-05,
+        "name": "Textproduktion",
+        "offset": 6.219043392311311e-05
+      },
+      {
+        "tid": "4",
+        "p": 2.666760094610073e-05,
+        "name": "Buchhandel",
+        "offset": 0.00010579215005680461
+      },
+      {
+        "tid": "26",
+        "p": 0.3720380406559223,
+        "name": "Zweiter Weltkrieg",
+        "offset": 0.00013245975100290534
+      },
+      {
+        "tid": "16",
+        "p": 0.17163674384390418,
+        "name": "Post",
+        "offset": 0.3721705004069252
+      },
+      {
+        "tid": "13",
+        "p": 0.16063453270284456,
+        "name": "Literatur",
+        "offset": 0.5438072442508294
+      },
+      {
+        "tid": "5",
+        "p": 0.10117769956401093,
+        "name": "Drittes Reich",
+        "offset": 0.7044417769536739
+      },
+      {
+        "tid": "11",
+        "p": 0.08492025515949163,
+        "name": "Judentum",
+        "offset": 0.8056194765176848
+      },
+      {
+        "tid": "1",
+        "p": 0.05988370003889739,
+        "name": "Alltag",
+        "offset": 0.8905397316771765
+      },
+      {
+        "tid": "18",
+        "p": 0.026079553610890174,
+        "name": "Reise",
+        "offset": 0.9504234317160739
+      },
+      {
+        "tid": "19",
+        "p": 0.023497014673034538,
+        "name": "Rezension",
+        "offset": 0.9765029853269641
+      }
+    ]
+  },
+  {
+    "filename": "cor_tama_krsi_19330831_or_neli_d05.xml",
+    "did": "109",
+    "topics": [
+      {
+        "tid": "9",
+        "p": 7.482981531756552e-05,
+        "name": "Gesundheit",
+        "offset": 0
+      },
+      {
+        "tid": "4",
+        "p": 0.0005547559220727591,
+        "name": "Buchhandel",
+        "offset": 7.482981531756552e-05
+      },
+      {
+        "tid": "3",
+        "p": 0.0001476443838216932,
+        "name": "Auswanderung",
+        "offset": 0.0006295857373903246
+      },
+      {
+        "tid": "27",
+        "p": 0.42512161929299624,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0.0007772301212120178
+      },
+      {
+        "tid": "17",
+        "p": 0.2745321778643327,
+        "name": "Publizistik",
+        "offset": 0.42589884941420825
+      },
+      {
+        "tid": "12",
+        "p": 0.17954959775596369,
+        "name": "Leid",
+        "offset": 0.700431027278541
+      },
+      {
+        "tid": "1",
+        "p": 0.08839229759208343,
+        "name": "Alltag",
+        "offset": 0.8799806250345047
+      },
+      {
+        "tid": "20",
+        "p": 0.031627077373413,
+        "name": "Textproduktion",
+        "offset": 0.9683729226265881
+      }
+    ]
+  },
+  {
+    "filename": "cor_rojo_kehe_19330823_or_01.xml",
+    "did": "89",
+    "topics": [
+      {
+        "tid": "18",
+        "p": 1.0,
+        "name": "Reise",
+        "offset": 0
+      },
+      {
+        "tid": "4",
+        "p": 0.0,
+        "name": "Buchhandel",
+        "offset": 1.0
+      }
+    ]
+  },
+  {
+    "filename": "cor_neal_kehe_19500420_or_01.xml",
+    "did": "80",
+    "topics": [
+      {
+        "tid": "7",
+        "p": 0.4316571082177422,
+        "name": "Geld",
+        "offset": 0
+      },
+      {
+        "tid": "22",
+        "p": 0.3444748532329912,
+        "name": "Verfolgung",
+        "offset": 0.4316571082177422
+      },
+      {
+        "tid": "18",
+        "p": 0.1966911024322265,
+        "name": "Reise",
+        "offset": 0.7761319614507334
+      },
+      {
+        "tid": "6",
+        "p": 0.027176936117040383,
+        "name": "Film",
+        "offset": 0.9728230638829599
+      }
+    ]
+  },
+  {
+    "filename": "cor_kehe_makl_19380502_or_01.xml",
+    "did": "32",
+    "topics": [
+      {
+        "tid": "27",
+        "p": 0.0005215258873940206,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0
+      },
+      {
+        "tid": "3",
+        "p": 0.00011740786100231958,
+        "name": "Auswanderung",
+        "offset": 0.0005215258873940206
+      },
+      {
+        "tid": "13",
+        "p": 0.31259379513486846,
+        "name": "Literatur",
+        "offset": 0.0006389337483963402
+      },
+      {
+        "tid": "25",
+        "p": 0.29314320890971846,
+        "name": "Zensur",
+        "offset": 0.3132327288832648
+      },
+      {
+        "tid": "17",
+        "p": 0.20316118863761098,
+        "name": "Publizistik",
+        "offset": 0.6063759377929833
+      },
+      {
+        "tid": "22",
+        "p": 0.1748200349560642,
+        "name": "Verfolgung",
+        "offset": 0.8095371264305943
+      },
+      {
+        "tid": "4",
+        "p": 0.01564283861334312,
+        "name": "Buchhandel",
+        "offset": 0.9843571613866585
+      }
+    ]
+  },
+  {
+    "filename": "cor_neal_kehe_19431117_or_01.xml",
+    "did": "81",
+    "topics": [
+      {
+        "tid": "10",
+        "p": 3.853836814408161e-07,
+        "name": "Hilfe",
+        "offset": 0
+      },
+      {
+        "tid": "25",
+        "p": 1.0,
+        "name": "Zensur",
+        "offset": 3.853836814408161e-07
+      },
+      {
+        "tid": "27",
+        "p": 0.0,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 1.0000003853836814
+      },
+      {
+        "tid": "17",
+        "p": 0.0,
+        "name": "Publizistik",
+        "offset": 1.0000003853836814
+      },
+      {
+        "tid": "20",
+        "p": 0.0,
+        "name": "Textproduktion",
+        "offset": 1.0000003853836814
+      },
+      {
+        "tid": "22",
+        "p": 0.0,
+        "name": "Verfolgung",
+        "offset": 1.0000003853836814
+      }
+    ]
+  },
+  {
+    "filename": "cor_scle_makl_19340504_or_01.xml",
+    "did": "97",
+    "topics": [
+      {
+        "tid": "25",
+        "p": 0.00036749162160710515,
+        "name": "Zensur",
+        "offset": 0
+      },
+      {
+        "tid": "17",
+        "p": 0.8209355490766317,
+        "name": "Publizistik",
+        "offset": 0.00036749162160710515
+      },
+      {
+        "tid": "20",
+        "p": 0.17869695930176127,
+        "name": "Textproduktion",
+        "offset": 0.8213030406982388
+      }
+    ]
+  },
+  {
+    "filename": "cor_kehe_toer_19330323_cc_01.xml",
+    "did": "43",
+    "topics": [
+      {
+        "tid": "1",
+        "p": 1.0,
+        "name": "Alltag",
+        "offset": 0
+      },
+      {
+        "tid": "16",
+        "p": 0.0,
+        "name": "Post",
+        "offset": 1.0
+      },
+      {
+        "tid": "27",
+        "p": 0.0,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 1.0
+      },
+      {
+        "tid": "7",
+        "p": 0.0,
+        "name": "Geld",
+        "offset": 1.0
+      },
+      {
+        "tid": "18",
+        "p": 0.0,
+        "name": "Reise",
+        "offset": 1.0
+      },
+      {
+        "tid": "4",
+        "p": 0.0,
+        "name": "Buchhandel",
+        "offset": 1.0
+      },
+      {
+        "tid": "20",
+        "p": 0.0,
+        "name": "Textproduktion",
+        "offset": 1.0
+      },
+      {
+        "tid": "5",
+        "p": 0.0,
+        "name": "Drittes Reich",
+        "offset": 1.0
+      }
+    ]
+  },
+  {
+    "filename": "cor_frli_kehe_19380815_or_01.xml",
+    "did": "18",
+    "topics": [
+      {
+        "tid": "0",
+        "p": 1.0,
+        "name": "<empty>",
+        "offset": 0
+      }
+    ]
+  },
+  {
+    "filename": "cor_meju_krsi_19341110_or_neli_d09.xml",
+    "did": "75",
+    "topics": [
+      {
+        "tid": "4",
+        "p": 0.6870241655392788,
+        "name": "Buchhandel",
+        "offset": 0
+      },
+      {
+        "tid": "19",
+        "p": 0.3129758344607193,
+        "name": "Rezension",
+        "offset": 0.6870241655392788
+      }
+    ]
+  },
+  {
+    "filename": "cor_heku_ehal_19450830_cc_neli_d09.xml",
+    "did": "24",
+    "topics": [
+      {
+        "tid": "0",
+        "p": 1.0,
+        "name": "<empty>",
+        "offset": 0
+      }
+    ]
+  },
+  {
+    "filename": "cor_brfe_krsi_19370305_or_neli_d06.xml",
+    "did": "3",
+    "topics": [
+      {
+        "tid": "1",
+        "p": 1.0,
+        "name": "Alltag",
+        "offset": 0
+      },
+      {
+        "tid": "4",
+        "p": 0.0,
+        "name": "Buchhandel",
+        "offset": 1.0
+      },
+      {
+        "tid": "6",
+        "p": 0.0,
+        "name": "Film",
+        "offset": 1.0
+      },
+      {
+        "tid": "19",
+        "p": 0.0,
+        "name": "Rezension",
+        "offset": 1.0
+      }
+    ]
+  },
+  {
+    "filename": "cor_makl_kehe_19430515_or_01.xml",
+    "did": "69",
+    "topics": [
+      {
+        "tid": "19",
+        "p": 4.230859593133186e-06,
+        "name": "Rezension",
+        "offset": 0
+      },
+      {
+        "tid": "26",
+        "p": 1.0,
+        "name": "Zweiter Weltkrieg",
+        "offset": 4.230859593133186e-06
+      },
+      {
+        "tid": "20",
+        "p": 0.0,
+        "name": "Textproduktion",
+        "offset": 1.0000042308595931
+      }
+    ]
+  },
+  {
+    "filename": "cor_kehe_neal-neki_19491007_cc_01.xml",
+    "did": "37",
+    "topics": [
+      {
+        "tid": "10",
+        "p": 0.00027461306949695446,
+        "name": "Hilfe",
+        "offset": 0
+      },
+      {
+        "tid": "20",
+        "p": 0.00011093492865626917,
+        "name": "Textproduktion",
+        "offset": 0.00027461306949695446
+      },
+      {
+        "tid": "7",
+        "p": 0.41945936193235084,
+        "name": "Geld",
+        "offset": 0.0003855479981532236
+      },
+      {
+        "tid": "18",
+        "p": 0.2696507512184832,
+        "name": "Reise",
+        "offset": 0.41984490993050405
+      },
+      {
+        "tid": "27",
+        "p": 0.18526299054235595,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0.6894956611489873
+      },
+      {
+        "tid": "4",
+        "p": 0.12524134830865719,
+        "name": "Buchhandel",
+        "offset": 0.8747586516913433
+      }
+    ]
+  },
+  {
+    "filename": "cor_neal_scre_19340725_or_neli_d02.xml",
+    "did": "86",
+    "topics": [
+      {
+        "tid": "5",
+        "p": 0.0009009763711112814,
+        "name": "Drittes Reich",
+        "offset": 0
+      },
+      {
+        "tid": "26",
+        "p": 0.0008780608347091713,
+        "name": "Zweiter Weltkrieg",
+        "offset": 0.0009009763711112814
+      },
+      {
+        "tid": "21",
+        "p": 0.5409912691955826,
+        "name": "Tod",
+        "offset": 0.0017790372058204527
+      },
+      {
+        "tid": "11",
+        "p": 0.24928849605550144,
+        "name": "Judentum",
+        "offset": 0.542770306401403
+      },
+      {
+        "tid": "22",
+        "p": 0.2079411975430957,
+        "name": "Verfolgung",
+        "offset": 0.7920588024569044
+      }
+    ]
+  },
+  {
+    "filename": "cor_kehe_makl_19330618_or_01.xml",
+    "did": "28",
+    "topics": [
+      {
+        "tid": "0",
+        "p": 1.0,
+        "name": "<empty>",
+        "offset": 0
+      }
+    ]
+  },
+  {
+    "filename": "cor_hawa_piku_19371017_or_neli_d05.xml",
+    "did": "20",
+    "topics": [
+      {
+        "tid": "0",
+        "p": 1.0,
+        "name": "<empty>",
+        "offset": 0
+      }
+    ]
+  },
+  {
+    "filename": "cor_brjo_scre_19340909_or_neli_d10.xml",
+    "did": "10",
+    "topics": [
+      {
+        "tid": "11",
+        "p": 0.36606003553394506,
+        "name": "Judentum",
+        "offset": 0
+      },
+      {
+        "tid": "19",
+        "p": 0.13834627745077244,
+        "name": "Rezension",
+        "offset": 0.36606003553394506
+      },
+      {
+        "tid": "17",
+        "p": 0.12664353731198721,
+        "name": "Publizistik",
+        "offset": 0.5044063129847175
+      },
+      {
+        "tid": "3",
+        "p": 0.10311095244582565,
+        "name": "Auswanderung",
+        "offset": 0.6310498502967047
+      },
+      {
+        "tid": "4",
+        "p": 0.08001660968688032,
+        "name": "Buchhandel",
+        "offset": 0.7341608027425304
+      },
+      {
+        "tid": "8",
+        "p": 0.05733992258750841,
+        "name": "Gesellschaftsordnung",
+        "offset": 0.8141774124294107
+      },
+      {
+        "tid": "22",
+        "p": 0.05637514509087583,
+        "name": "Verfolgung",
+        "offset": 0.8715173350169191
+      },
+      {
+        "tid": "25",
+        "p": 0.05286821808446911,
+        "name": "Zensur",
+        "offset": 0.9278924801077949
+      },
+      {
+        "tid": "27",
+        "p": 0.01923930180774235,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0.980760698192264
+      }
+    ]
+  },
+  {
+    "filename": "cor_kehe_scre_19381230_cc_01.xml",
+    "did": "42",
+    "topics": [
+      {
+        "tid": "18",
+        "p": 0.6739251232471927,
+        "name": "Reise",
+        "offset": 0
+      },
+      {
+        "tid": "16",
+        "p": 0.2814648612251512,
+        "name": "Post",
+        "offset": 0.6739251232471927
+      },
+      {
+        "tid": "27",
+        "p": 0.0446100155276557,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0.9553899844723439
+      }
+    ]
+  },
+  {
+    "filename": "cor_toer_kehe_19330701_or_01.xml",
+    "did": "120",
+    "topics": [
+      {
+        "tid": "7",
+        "p": 0.00031524296029198425,
+        "name": "Geld",
+        "offset": 0
+      },
+      {
+        "tid": "18",
+        "p": 0.6628072778581194,
+        "name": "Reise",
+        "offset": 0.00031524296029198425
+      },
+      {
+        "tid": "4",
+        "p": 0.33545813530455476,
+        "name": "Buchhandel",
+        "offset": 0.6631225208184114
+      },
+      {
+        "tid": "13",
+        "p": 0.0014193438770346667,
+        "name": "Literatur",
+        "offset": 0.9985806561229662
+      }
+    ]
+  },
+  {
+    "filename": "cor_neal_scre_19320615_or_neli_d02.xml",
+    "did": "82",
+    "topics": [
+      {
+        "tid": "5",
+        "p": 0.00014967592649490667,
+        "name": "Drittes Reich",
+        "offset": 0
+      },
+      {
+        "tid": "27",
+        "p": 0.32005870892329774,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0.00014967592649490667
+      },
+      {
+        "tid": "18",
+        "p": 0.2817739274855348,
+        "name": "Reise",
+        "offset": 0.32020838484979264
+      },
+      {
+        "tid": "7",
+        "p": 0.19929654233623442,
+        "name": "Geld",
+        "offset": 0.6019823123353274
+      },
+      {
+        "tid": "10",
+        "p": 0.12162908918194526,
+        "name": "Hilfe",
+        "offset": 0.8012788546715618
+      },
+      {
+        "tid": "8",
+        "p": 0.07709205614649356,
+        "name": "Gesellschaftsordnung",
+        "offset": 0.922907943853507
+      }
+    ]
+  },
+  {
+    "filename": "cor_scsa_krsi_19470923_or_neli_d04.xml",
+    "did": "108",
+    "topics": [
+      {
+        "tid": "13",
+        "p": 1.0,
+        "name": "Literatur",
+        "offset": 0
+      },
+      {
+        "tid": "17",
+        "p": 0.0,
+        "name": "Publizistik",
+        "offset": 1.0
+      }
+    ]
+  },
+  {
+    "filename": "cor_gema_frbr_19400607_cc_neli_d05.xml",
+    "did": "19",
+    "topics": [
+      {
+        "tid": "26#",
+        "p": 1.0,
+        "name": "WW2 (26 mit Leerstelle)",
+        "offset": 0
+      },
+      {
+        "tid": "17",
+        "p": 0.0,
+        "name": "Publizistik",
+        "offset": 1.0
+      },
+      {
+        "tid": "27",
+        "p": 0.0,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 1.0
+      },
+      {
+        "tid": "11",
+        "p": 0.0,
+        "name": "Judentum",
+        "offset": 1.0
+      },
+      {
+        "tid": "4",
+        "p": 0.0,
+        "name": "Buchhandel",
+        "offset": 1.0
+      },
+      {
+        "tid": "13",
+        "p": 0.0,
+        "name": "Literatur",
+        "offset": 1.0
+      },
+      {
+        "tid": "12",
+        "p": 0.0,
+        "name": "Leid",
+        "offset": 1.0
+      },
+      {
+        "tid": "5",
+        "p": 0.0,
+        "name": "Drittes Reich",
+        "offset": 1.0
+      }
+    ]
+  },
+  {
+    "filename": "cor_kehe_neal_19330614_or_01.xml",
+    "did": "35",
+    "topics": [
+      {
+        "tid": "10",
+        "p": 1.0,
+        "name": "Hilfe",
+        "offset": 0
+      },
+      {
+        "tid": "4",
+        "p": 0.0,
+        "name": "Buchhandel",
+        "offset": 1.0
+      },
+      {
+        "tid": "27",
+        "p": 0.0,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 1.0
+      },
+      {
+        "tid": "11",
+        "p": 0.0,
+        "name": "Judentum",
+        "offset": 1.0
+      },
+      {
+        "tid": "20",
+        "p": 0.0,
+        "name": "Textproduktion",
+        "offset": 1.0
+      },
+      {
+        "tid": "13",
+        "p": 0.0,
+        "name": "Literatur",
+        "offset": 1.0
+      },
+      {
+        "tid": "7",
+        "p": 0.0,
+        "name": "Geld",
+        "offset": 1.0
+      },
+      {
+        "tid": "16",
+        "p": 0.0,
+        "name": "Post",
+        "offset": 1.0
+      }
+    ]
+  },
+  {
+    "filename": "cor_zwlo-zwst_lafr_19410303_or_01.xml",
+    "did": "123",
+    "topics": [
+      {
+        "tid": "17",
+        "p": 0.00023674374551622954,
+        "name": "Publizistik",
+        "offset": 0
+      },
+      {
+        "tid": "27",
+        "p": 0.00017172203884936667,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0.00023674374551622954
+      },
+      {
+        "tid": "9",
+        "p": 0.5204790914261552,
+        "name": "Gesundheit",
+        "offset": 0.00040846578436559624
+      },
+      {
+        "tid": "13",
+        "p": 0.21057280003453868,
+        "name": "Literatur",
+        "offset": 0.5208875572105208
+      },
+      {
+        "tid": "7",
+        "p": 0.18510568976675099,
+        "name": "Geld",
+        "offset": 0.7314603572450595
+      },
+      {
+        "tid": "4",
+        "p": 0.06191735738071691,
+        "name": "Buchhandel",
+        "offset": 0.9165660470118105
+      },
+      {
+        "tid": "16",
+        "p": 0.021516595607472013,
+        "name": "Post",
+        "offset": 0.9784834043925275
+      }
+    ]
+  },
+  {
+    "filename": "cor_meju_krsi_19331002_or_neli_d08.xml",
+    "did": "74",
+    "topics": [
+      {
+        "tid": "27",
+        "p": 0.38677144435546357,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0
+      },
+      {
+        "tid": "17",
+        "p": 0.35249756204527705,
+        "name": "Publizistik",
+        "offset": 0.38677144435546357
+      },
+      {
+        "tid": "10",
+        "p": 0.26073099359926016,
+        "name": "Hilfe",
+        "offset": 0.7392690064007406
+      }
+    ]
+  },
+  {
+    "filename": "cor_rojo_neal_19330112_or_01.xml",
+    "did": "90",
+    "topics": [
+      {
+        "tid": "18",
+        "p": 0.0005524173426264303,
+        "name": "Reise",
+        "offset": 0
+      },
+      {
+        "tid": "27",
+        "p": 0.9994475826573737,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0.0005524173426264303
+      }
+    ]
+  },
+  {
+    "filename": "cor_rojo_neal_19341021_or_01.xml",
+    "did": "91",
+    "topics": [
+      {
+        "tid": "20",
+        "p": 0.0002095916452247387,
+        "name": "Textproduktion",
+        "offset": 0
+      },
+      {
+        "tid": "27",
+        "p": 0.48670932011851287,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0.0002095916452247387
+      },
+      {
+        "tid": "4",
+        "p": 0.28073593315183554,
+        "name": "Buchhandel",
+        "offset": 0.4869189117637376
+      },
+      {
+        "tid": "13",
+        "p": 0.23234515508442638,
+        "name": "Literatur",
+        "offset": 0.7676548449155731
+      }
+    ]
+  },
+  {
+    "filename": "cor_krsi_meju_19330212_cc_neli_d08.xml",
+    "did": "60",
+    "topics": [
+      {
+        "tid": "13",
+        "p": 0.5636543727117257,
+        "name": "Literatur",
+        "offset": 0
+      },
+      {
+        "tid": "27",
+        "p": 0.31414182870208973,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0.5636543727117257
+      },
+      {
+        "tid": "2",
+        "p": 0.12220379858618421,
+        "name": "Angst",
+        "offset": 0.8777962014138154
+      }
+    ]
+  },
+  {
+    "filename": "cor_kehe_makl_19341115_or_01.xml",
+    "did": "29",
+    "topics": [
+      {
+        "tid": "0",
+        "p": 1.0,
+        "name": "<empty>",
+        "offset": 0
+      }
+    ]
+  },
+  {
+    "filename": "cor_brjo_makl_19340620_or_01.xml",
+    "did": "6",
+    "topics": [
+      {
+        "tid": "27",
+        "p": 0.00010483592813629806,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0
+      },
+      {
+        "tid": "3",
+        "p": 0.29680684011041886,
+        "name": "Auswanderung",
+        "offset": 0.00010483592813629806
+      },
+      {
+        "tid": "19",
+        "p": 0.239236770515116,
+        "name": "Rezension",
+        "offset": 0.2969116760385552
+      },
+      {
+        "tid": "11",
+        "p": 0.18135262863458207,
+        "name": "Judentum",
+        "offset": 0.5361484465536712
+      },
+      {
+        "tid": "22",
+        "p": 0.14497973987661322,
+        "name": "Verfolgung",
+        "offset": 0.7175010751882533
+      },
+      {
+        "tid": "8",
+        "p": 0.08625534291524618,
+        "name": "Gesellschaftsordnung",
+        "offset": 0.8624808150648666
+      },
+      {
+        "tid": "17",
+        "p": 0.0512638420198871,
+        "name": "Publizistik",
+        "offset": 0.9487361579801128
+      }
+    ]
+  },
+  {
+    "filename": "cor_frbr_gema_19400609_or_neli_d05.xml",
+    "did": "14",
+    "topics": [
+      {
+        "tid": "26",
+        "p": 9.45285175721451e-05,
+        "name": "Zweiter Weltkrieg",
+        "offset": 0
+      },
+      {
+        "tid": "8",
+        "p": 0.401508169304187,
+        "name": "Gesellschaftsordnung",
+        "offset": 9.45285175721451e-05
+      },
+      {
+        "tid": "12",
+        "p": 0.27911863707547574,
+        "name": "Leid",
+        "offset": 0.4016026978217591
+      },
+      {
+        "tid": "27",
+        "p": 0.13673538915718,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0.6807213348972349
+      },
+      {
+        "tid": "23",
+        "p": 0.09789284462835758,
+        "name": "Verwaltung",
+        "offset": 0.8174567240544148
+      },
+      {
+        "tid": "16",
+        "p": 0.0846504313172267,
+        "name": "Post",
+        "offset": 0.9153495686827724
+      }
+    ]
+  },
+  {
+    "filename": "cor_zwst_kehe_19420115_or_01.xml",
+    "did": "125",
+    "topics": [
+      {
+        "tid": "4",
+        "p": 0.00015077232711078618,
+        "name": "Buchhandel",
+        "offset": 0
+      },
+      {
+        "tid": "16",
+        "p": 0.00010366255056409851,
+        "name": "Post",
+        "offset": 0.00015077232711078618
+      },
+      {
+        "tid": "1",
+        "p": 0.2999594529869044,
+        "name": "Alltag",
+        "offset": 0.0002544348776748847
+      },
+      {
+        "tid": "3",
+        "p": 0.2560937920890242,
+        "name": "Auswanderung",
+        "offset": 0.3002138878645793
+      },
+      {
+        "tid": "26",
+        "p": 0.2176459849701513,
+        "name": "Zweiter Weltkrieg",
+        "offset": 0.5563076799536035
+      },
+      {
+        "tid": "18",
+        "p": 0.1052656098505371,
+        "name": "Reise",
+        "offset": 0.7739536649237548
+      },
+      {
+        "tid": "20",
+        "p": 0.06317010645303787,
+        "name": "Textproduktion",
+        "offset": 0.879219274774292
+      },
+      {
+        "tid": "27",
+        "p": 0.057610618772669105,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0.9423893812273298
+      }
+    ]
+  },
+  {
+    "filename": "cor_kehe_scre_19331217_or_neli_d04.xml",
+    "did": "40",
+    "topics": [
+      {
+        "tid": "27",
+        "p": 8.706038699003066e-05,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0
+      },
+      {
+        "tid": "18",
+        "p": 0.000740712377716612,
+        "name": "Reise",
+        "offset": 8.706038699003066e-05
+      },
+      {
+        "tid": "13",
+        "p": 7.298971286860703e-05,
+        "name": "Literatur",
+        "offset": 0.0008277727647066427
+      },
+      {
+        "tid": "1",
+        "p": 0.00036922782871306293,
+        "name": "Alltag",
+        "offset": 0.0009007624775752497
+      },
+      {
+        "tid": "24",
+        "p": 0.00019632345664785853,
+        "name": "Verwandschaft",
+        "offset": 0.0012699903062883126
+      },
+      {
+        "tid": "16",
+        "p": 0.693055920936353,
+        "name": "Post",
+        "offset": 0.0014663137629361712
+      },
+      {
+        "tid": "5",
+        "p": 0.20860343082587537,
+        "name": "Drittes Reich",
+        "offset": 0.6945222346992892
+      },
+      {
+        "tid": "25",
+        "p": 0.054000109029593436,
+        "name": "Zensur",
+        "offset": 0.9031256655251646
+      },
+      {
+        "tid": "4",
+        "p": 0.04287422544524246,
+        "name": "Buchhandel",
+        "offset": 0.957125774554758
+      }
+    ]
+  },
+  {
+    "filename": "cor_koan_kehe_19410214_or_01.xml",
+    "did": "51",
+    "topics": [
+      {
+        "tid": "20",
+        "p": 1.1311102786768533e-05,
+        "name": "Textproduktion",
+        "offset": 0
+      },
+      {
+        "tid": "12",
+        "p": 1.0,
+        "name": "Leid",
+        "offset": 1.1311102786768533e-05
+      },
+      {
+        "tid": "18",
+        "p": 0.0,
+        "name": "Reise",
+        "offset": 1.0000113111027868
+      },
+      {
+        "tid": "7",
+        "p": 0.0,
+        "name": "Geld",
+        "offset": 1.0000113111027868
+      },
+      {
+        "tid": "3",
+        "p": 0.0,
+        "name": "Auswanderung",
+        "offset": 1.0000113111027868
+      },
+      {
+        "tid": "16",
+        "p": 0.0,
+        "name": "Post",
+        "offset": 1.0000113111027868
+      },
+      {
+        "tid": "4",
+        "p": 0.0,
+        "name": "Buchhandel",
+        "offset": 1.0000113111027868
+      }
+    ]
+  },
+  {
+    "filename": "cor_teli_ehal_19461128_cc_neli_d07.xml",
+    "did": "119",
+    "topics": [
+      {
+        "tid": "27",
+        "p": 9.192259153953042e-05,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0
+      },
+      {
+        "tid": "8",
+        "p": 9.123778364474494e-05,
+        "name": "Gesellschaftsordnung",
+        "offset": 9.192259153953042e-05
+      },
+      {
+        "tid": "9",
+        "p": 2.901464703211982e-05,
+        "name": "Gesundheit",
+        "offset": 0.00018316037518427536
+      },
+      {
+        "tid": "13",
+        "p": 0.0002706835882767716,
+        "name": "Literatur",
+        "offset": 0.00021217502221639517
+      },
+      {
+        "tid": "18",
+        "p": 0.00010300808328473652,
+        "name": "Reise",
+        "offset": 0.0004828586104931668
+      },
+      {
+        "tid": "15",
+        "p": 0.35072972117611606,
+        "name": "Ost-West-Konflikt",
+        "offset": 0.0005858666937779033
+      },
+      {
+        "tid": "7",
+        "p": 0.19527237984510346,
+        "name": "Geld",
+        "offset": 0.351315587869894
+      },
+      {
+        "tid": "3",
+        "p": 0.14069207617631546,
+        "name": "Auswanderung",
+        "offset": 0.5465879677149974
+      },
+      {
+        "tid": "14",
+        "p": 0.11591411974874827,
+        "name": "Nachkriegszeit",
+        "offset": 0.6872800438913129
+      },
+      {
+        "tid": "16",
+        "p": 0.061658653639552474,
+        "name": "Post",
+        "offset": 0.8031941636400612
+      },
+      {
+        "tid": "23",
+        "p": 0.051694278508653504,
+        "name": "Verwaltung",
+        "offset": 0.8648528172796137
+      },
+      {
+        "tid": "5",
+        "p": 0.04972858623979191,
+        "name": "Drittes Reich",
+        "offset": 0.9165470957882672
+      },
+      {
+        "tid": "12",
+        "p": 0.0275652405882921,
+        "name": "Leid",
+        "offset": 0.9662756820280591
+      },
+      {
+        "tid": "25",
+        "p": 0.0061590773836480974,
+        "name": "Zensur",
+        "offset": 0.9938409226163513
+      }
+    ]
+  },
+  {
+    "filename": "cor_zwst_scre_19341101_or_neli_d06.xml",
+    "did": "127",
+    "topics": [
+      {
+        "tid": "20",
+        "p": 0.0009584562025270846,
+        "name": "Textproduktion",
+        "offset": 0
+      },
+      {
+        "tid": "13",
+        "p": 0.807551942220666,
+        "name": "Literatur",
+        "offset": 0.0009584562025270846
+      },
+      {
+        "tid": "27",
+        "p": 0.1914896015768072,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0.808510398423193
+      }
+    ]
+  },
+  {
+    "filename": "cor_krsi_math_19341211_cc_neli_d05.xml",
+    "did": "59",
+    "topics": [
+      {
+        "tid": "12",
+        "p": 1.0,
+        "name": "Leid",
+        "offset": 0
+      },
+      {
+        "tid": "10",
+        "p": 0.0,
+        "name": "Hilfe",
+        "offset": 1.0
+      },
+      {
+        "tid": "2",
+        "p": 0.0,
+        "name": "Angst",
+        "offset": 1.0
+      },
+      {
+        "tid": "17",
+        "p": 0.0,
+        "name": "Publizistik",
+        "offset": 1.0
+      },
+      {
+        "tid": "19",
+        "p": 0.0,
+        "name": "Rezension",
+        "offset": 1.0
+      },
+      {
+        "tid": "13",
+        "p": 0.0,
+        "name": "Literatur",
+        "offset": 1.0
+      },
+      {
+        "tid": "4",
+        "p": 0.0,
+        "name": "Buchhandel",
+        "offset": 1.0
+      },
+      {
+        "tid": "16",
+        "p": 0.0,
+        "name": "Post",
+        "offset": 1.0
+      }
+    ]
+  },
+  {
+    "filename": "cor_heku_ehal_19401126_cc_neli_d09.xml",
+    "did": "23",
+    "topics": [
+      {
+        "tid": "10",
+        "p": 1.0,
+        "name": "Hilfe",
+        "offset": 0
+      },
+      {
+        "tid": "27",
+        "p": 0.0,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 1.0
+      },
+      {
+        "tid": "3",
+        "p": 0.0,
+        "name": "Auswanderung",
+        "offset": 1.0
+      },
+      {
+        "tid": "16",
+        "p": 0.0,
+        "name": "Post",
+        "offset": 1.0
+      },
+      {
+        "tid": "20",
+        "p": 0.0,
+        "name": "Textproduktion",
+        "offset": 1.0
+      },
+      {
+        "tid": "18",
+        "p": 0.0,
+        "name": "Reise",
+        "offset": 1.0
+      }
+    ]
+  },
+  {
+    "filename": "cor_tama_krsi_19340906_or_neli_d04.xml",
+    "did": "111",
+    "topics": [
+      {
+        "tid": "27",
+        "p": 0.29805779717062675,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0
+      },
+      {
+        "tid": "24",
+        "p": 0.1672342370076851,
+        "name": "Verwandschaft",
+        "offset": 0.29805779717062675
+      },
+      {
+        "tid": "17",
+        "p": 0.1633405251453094,
+        "name": "Publizistik",
+        "offset": 0.4652920341783119
+      },
+      {
+        "tid": "12",
+        "p": 0.11270182233351139,
+        "name": "Leid",
+        "offset": 0.6286325593236213
+      },
+      {
+        "tid": "16",
+        "p": 0.10137398485254728,
+        "name": "Post",
+        "offset": 0.7413343816571327
+      },
+      {
+        "tid": "4",
+        "p": 0.08691967166632132,
+        "name": "Buchhandel",
+        "offset": 0.84270836650968
+      },
+      {
+        "tid": "3",
+        "p": 0.07037196182399867,
+        "name": "Auswanderung",
+        "offset": 0.9296280381760013
+      }
+    ]
+  },
+  {
+    "filename": "cor_zwst_scre_19340926_or_neli_d06.xml",
+    "did": "126",
+    "topics": [
+      {
+        "tid": "3",
+        "p": 0.45826534100979194,
+        "name": "Auswanderung",
+        "offset": 0
+      },
+      {
+        "tid": "13",
+        "p": 0.43905412558586226,
+        "name": "Literatur",
+        "offset": 0.45826534100979194
+      },
+      {
+        "tid": "4",
+        "p": 0.10268053340434952,
+        "name": "Buchhandel",
+        "offset": 0.8973194665956542
+      }
+    ]
+  },
+  {
+    "filename": "cor_frbr_kehe_19400907_or_02.xml",
+    "did": "16",
+    "topics": [
+      {
+        "tid": "13",
+        "p": 0.44284586204271204,
+        "name": "Literatur",
+        "offset": 0
+      },
+      {
+        "tid": "27",
+        "p": 0.25972005291260813,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0.44284586204271204
+      },
+      {
+        "tid": "18",
+        "p": 0.15529394308127348,
+        "name": "Reise",
+        "offset": 0.7025659149553202
+      },
+      {
+        "tid": "17",
+        "p": 0.14214014196340624,
+        "name": "Publizistik",
+        "offset": 0.8578598580365937
+      }
+    ]
+  },
+  {
+    "filename": "cor_kehe_gema_19430415_tr_01.xml",
+    "did": "25",
+    "topics": [
+      {
+        "tid": "5",
+        "p": 7.375610275517084e-05,
+        "name": "Drittes Reich",
+        "offset": 0
+      },
+      {
+        "tid": "17",
+        "p": 6.289711189302561e-05,
+        "name": "Publizistik",
+        "offset": 7.375610275517084e-05
+      },
+      {
+        "tid": "25",
+        "p": 0.763219966586449,
+        "name": "Zensur",
+        "offset": 0.00013665321464819644
+      },
+      {
+        "tid": "13",
+        "p": 0.2366433801989038,
+        "name": "Literatur",
+        "offset": 0.7633566198010971
+      }
+    ]
+  },
+  {
+    "filename": "cor_kehe_makl_19430905_or_01.xml",
+    "did": "33",
+    "topics": [
+      {
+        "tid": "20",
+        "p": 0.00021193522896788115,
+        "name": "Textproduktion",
+        "offset": 0
+      },
+      {
+        "tid": "18",
+        "p": 0.00010825856017312298,
+        "name": "Reise",
+        "offset": 0.00021193522896788115
+      },
+      {
+        "tid": "7",
+        "p": 0.5808244613995381,
+        "name": "Geld",
+        "offset": 0.00032019378914100415
+      },
+      {
+        "tid": "16",
+        "p": 0.23354360145768488,
+        "name": "Post",
+        "offset": 0.5811446551886792
+      },
+      {
+        "tid": "13",
+        "p": 0.14247339352906235,
+        "name": "Literatur",
+        "offset": 0.814688256646364
+      },
+      {
+        "tid": "4",
+        "p": 0.04283834982457293,
+        "name": "Buchhandel",
+        "offset": 0.9571616501754263
+      }
+    ]
+  },
+  {
+    "filename": "cor_scre_makl_19340604_or_01.xml",
+    "did": "101",
+    "topics": [
+      {
+        "tid": "5",
+        "p": 0.5912039090716031,
+        "name": "Drittes Reich",
+        "offset": 0
+      },
+      {
+        "tid": "17",
+        "p": 0.4087960909283969,
+        "name": "Publizistik",
+        "offset": 0.5912039090716031
+      }
+    ]
+  },
+  {
+    "filename": "cor_neal_scre_19321125_or_neli_d03.xml",
+    "did": "83",
+    "topics": [
+      {
+        "tid": "27",
+        "p": 0.0009815076554249296,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0
+      },
+      {
+        "tid": "6",
+        "p": 0.0005678914625178729,
+        "name": "Film",
+        "offset": 0.0009815076554249296
+      },
+      {
+        "tid": "20",
+        "p": 0.5994285427838121,
+        "name": "Textproduktion",
+        "offset": 0.0015493991179428026
+      },
+      {
+        "tid": "18",
+        "p": 0.3304438023949564,
+        "name": "Reise",
+        "offset": 0.6009779419017549
+      },
+      {
+        "tid": "1",
+        "p": 0.06583595399998289,
+        "name": "Alltag",
+        "offset": 0.9314217442967113
+      },
+      {
+        "tid": "13",
+        "p": 0.0027423017033058627,
+        "name": "Literatur",
+        "offset": 0.9972576982966942
+      }
+    ]
+  },
+  {
+    "filename": "cor_tama_neal_19461125_or_01.xml",
+    "did": "117",
+    "topics": [
+      {
+        "tid": "13",
+        "p": 0.00013680116933960704,
+        "name": "Literatur",
+        "offset": 0
+      },
+      {
+        "tid": "27",
+        "p": 0.5145933558830623,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0.00013680116933960704
+      },
+      {
+        "tid": "4",
+        "p": 0.3230632687160633,
+        "name": "Buchhandel",
+        "offset": 0.5147301570524019
+      },
+      {
+        "tid": "16",
+        "p": 0.16220657423153506,
+        "name": "Post",
+        "offset": 0.8377934257684652
+      }
+    ]
+  },
+  {
+    "filename": "cor_scre_math_19331118_tr_01.xml",
+    "did": "102",
+    "topics": [
+      {
+        "tid": "4",
+        "p": 0.0003631801358194131,
+        "name": "Buchhandel",
+        "offset": 0
+      },
+      {
+        "tid": "5",
+        "p": 0.43712115086847364,
+        "name": "Drittes Reich",
+        "offset": 0.0003631801358194131
+      },
+      {
+        "tid": "19",
+        "p": 0.2878126059341895,
+        "name": "Rezension",
+        "offset": 0.43748433100429307
+      },
+      {
+        "tid": "13",
+        "p": 0.1352344590252136,
+        "name": "Literatur",
+        "offset": 0.7252969369384825
+      },
+      {
+        "tid": "8",
+        "p": 0.08258905774771277,
+        "name": "Gesellschaftsordnung",
+        "offset": 0.8605313959636961
+      },
+      {
+        "tid": "17",
+        "p": 0.05687954628858914,
+        "name": "Publizistik",
+        "offset": 0.9431204537114088
+      }
+    ]
+  },
+  {
+    "filename": "cor_neal-neki_kehe_19410124_or_01.xml",
+    "did": "88",
+    "topics": [
+      {
+        "tid": "18",
+        "p": 0.4947169391699211,
+        "name": "Reise",
+        "offset": 0
+      },
+      {
+        "tid": "7",
+        "p": 0.27650072233214906,
+        "name": "Geld",
+        "offset": 0.4947169391699211
+      },
+      {
+        "tid": "3",
+        "p": 0.22752508902205903,
+        "name": "Auswanderung",
+        "offset": 0.7712176615020702
+      },
+      {
+        "tid": "16",
+        "p": 0.0012572494758687693,
+        "name": "Post",
+        "offset": 0.9987427505241292
+      }
+    ]
+  },
+  {
+    "filename": "cor_bego_krsi_19330926_or_neli_d06.xml",
+    "did": "\ufeff1",
+    "topics": [
+      {
+        "tid": "4",
+        "p": 0.5128772679650003,
+        "name": "Buchhandel",
+        "offset": 0
+      },
+      {
+        "tid": "22",
+        "p": 0.48712273203499973,
+        "name": "Verfolgung",
+        "offset": 0.5128772679650003
+      }
+    ]
+  },
+  {
+    "filename": "cor_koan_stth_19500102_or_neli_d01.xml.txt",
+    "did": "56",
+    "topics": [
+      {
+        "tid": "22",
+        "p": 1.0,
+        "name": "Verfolgung",
+        "offset": 0
+      }
+    ]
+  },
+  {
+    "filename": "cor_kehe_neal-neki_19500307_cc_01.xml",
+    "did": "38",
+    "topics": [
+      {
+        "tid": "13",
+        "p": 6.26576103385976e-05,
+        "name": "Literatur",
+        "offset": 0
+      },
+      {
+        "tid": "6",
+        "p": 0.00012017450185869388,
+        "name": "Film",
+        "offset": 6.26576103385976e-05
+      },
+      {
+        "tid": "18",
+        "p": 0.6249003581075826,
+        "name": "Reise",
+        "offset": 0.00018283211219729146
+      },
+      {
+        "tid": "16",
+        "p": 0.3137299269019744,
+        "name": "Post",
+        "offset": 0.6250831902197799
+      },
+      {
+        "tid": "4",
+        "p": 0.06118688287824543,
+        "name": "Buchhandel",
+        "offset": 0.9388131171217542
+      }
+    ]
+  },
+  {
+    "filename": "cor_koan_brhe_19411016_or_neli_d01.xml",
+    "did": "49",
+    "topics": [
+      {
+        "tid": "22",
+        "p": 1.0,
+        "name": "Verfolgung",
+        "offset": 0
+      }
+    ]
+  },
+  {
+    "filename": "cor_kehe_weer_19331106_tr_01.xml",
+    "did": "45",
+    "topics": [
+      {
+        "tid": "18",
+        "p": 7.475041313914947e-05,
+        "name": "Reise",
+        "offset": 0
+      },
+      {
+        "tid": "10",
+        "p": 0.000313006428717967,
+        "name": "Hilfe",
+        "offset": 7.475041313914947e-05
+      },
+      {
+        "tid": "13",
+        "p": 0.0002370075138358189,
+        "name": "Literatur",
+        "offset": 0.00038775684185711647
+      },
+      {
+        "tid": "16",
+        "p": 0.6049273120963882,
+        "name": "Post",
+        "offset": 0.0006247643556929354
+      },
+      {
+        "tid": "4",
+        "p": 0.39444792354791824,
+        "name": "Buchhandel",
+        "offset": 0.6055520764520811
+      }
+    ]
+  },
+  {
+    "filename": "cor_neal_scre_19330325_or_neli_d03.xml",
+    "did": "84",
+    "topics": [
+      {
+        "tid": "19",
+        "p": 0.0009743957495471162,
+        "name": "Rezension",
+        "offset": 0
+      },
+      {
+        "tid": "17",
+        "p": 0.5506469618807566,
+        "name": "Publizistik",
+        "offset": 0.0009743957495471162
+      },
+      {
+        "tid": "20",
+        "p": 0.44837864236969655,
+        "name": "Textproduktion",
+        "offset": 0.5516213576303037
+      }
+    ]
+  },
+  {
+    "filename": "cor_scre_neal_19340714_or_01.xml",
+    "did": "103",
+    "topics": [
+      {
+        "tid": "21",
+        "p": 0.44603561002264436,
+        "name": "Tod",
+        "offset": 0
+      },
+      {
+        "tid": "5",
+        "p": 0.24837869900794207,
+        "name": "Drittes Reich",
+        "offset": 0.44603561002264436
+      },
+      {
+        "tid": "22",
+        "p": 0.231233295986404,
+        "name": "Verfolgung",
+        "offset": 0.6944143090305864
+      },
+      {
+        "tid": "2",
+        "p": 0.043941209311973074,
+        "name": "Angst",
+        "offset": 0.9256476050169904
+      },
+      {
+        "tid": "8",
+        "p": 0.03041118567103612,
+        "name": "Gesellschaftsordnung",
+        "offset": 0.9695888143289635
+      }
+    ]
+  },
+  {
+    "filename": "cor_krsi_tama_19340420_cc_neli_d04.xml",
+    "did": "61",
+    "topics": [
+      {
+        "tid": "9",
+        "p": 1.0,
+        "name": "Gesundheit",
+        "offset": 0
+      },
+      {
+        "tid": "27",
+        "p": 0.0,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 1.0
+      },
+      {
+        "tid": "18",
+        "p": 0.0,
+        "name": "Reise",
+        "offset": 1.0
+      },
+      {
+        "tid": "4",
+        "p": 0.0,
+        "name": "Buchhandel",
+        "offset": 1.0
+      },
+      {
+        "tid": "20",
+        "p": 0.0,
+        "name": "Textproduktion",
+        "offset": 1.0
+      }
+    ]
+  },
+  {
+    "filename": "cor_meju_krsi_19330214_or_neli_d09.xml",
+    "did": "72",
+    "topics": [
+      {
+        "tid": "13",
+        "p": 0.00012069758827917308,
+        "name": "Literatur",
+        "offset": 0
+      },
+      {
+        "tid": "17",
+        "p": 0.3641413235523696,
+        "name": "Publizistik",
+        "offset": 0.00012069758827917308
+      },
+      {
+        "tid": "1",
+        "p": 0.3601382579996396,
+        "name": "Alltag",
+        "offset": 0.36426202114064876
+      },
+      {
+        "tid": "27",
+        "p": 0.1644127730371463,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0.7244002791402884
+      },
+      {
+        "tid": "4",
+        "p": 0.1111869478225649,
+        "name": "Buchhandel",
+        "offset": 0.8888130521774347
+      }
+    ]
+  },
+  {
+    "filename": "cor_saha_brhe_19431106_cc_neli_d01.xml",
+    "did": "93",
+    "topics": [
+      {
+        "tid": "6",
+        "p": 0.4721019072401538,
+        "name": "Film",
+        "offset": 0
+      },
+      {
+        "tid": "19",
+        "p": 0.14461965514645805,
+        "name": "Rezension",
+        "offset": 0.4721019072401538
+      },
+      {
+        "tid": "13",
+        "p": 0.13326752065471228,
+        "name": "Literatur",
+        "offset": 0.6167215623866118
+      },
+      {
+        "tid": "27",
+        "p": 0.12610744102839383,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0.7499890830413241
+      },
+      {
+        "tid": "20",
+        "p": 0.10151142451480251,
+        "name": "Textproduktion",
+        "offset": 0.8760965240697178
+      },
+      {
+        "tid": "17",
+        "p": 0.022392051415482124,
+        "name": "Publizistik",
+        "offset": 0.9776079485845204
+      }
+    ]
+  },
+  {
+    "filename": "cor_ehal_heku_19400904_or_neli_d09.xml",
+    "did": "12",
+    "topics": [
+      {
+        "tid": "10",
+        "p": 0.5375101780706185,
+        "name": "Hilfe",
+        "offset": 0
+      },
+      {
+        "tid": "3",
+        "p": 0.34125856602387966,
+        "name": "Auswanderung",
+        "offset": 0.5375101780706185
+      },
+      {
+        "tid": "27",
+        "p": 0.12123125590550228,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0.8787687440944982
+      }
+    ]
+  },
+  {
+    "filename": "cor_koan_brhe_19420722_or_neli_d01.xml",
+    "did": "50",
+    "topics": [
+      {
+        "tid": "7",
+        "p": 0.49193353535329887,
+        "name": "Geld",
+        "offset": 0
+      },
+      {
+        "tid": "21",
+        "p": 0.2693009125395077,
+        "name": "Tod",
+        "offset": 0.49193353535329887
+      },
+      {
+        "tid": "12",
+        "p": 0.23876555210719339,
+        "name": "Leid",
+        "offset": 0.7612344478928066
+      }
+    ]
+  },
+  {
+    "filename": "cor_wewi_kehe_19491013_cc_neli_d03.xml",
+    "did": "122",
+    "topics": [
+      {
+        "tid": "7",
+        "p": 0.00037196680401875527,
+        "name": "Geld",
+        "offset": 0
+      },
+      {
+        "tid": "16",
+        "p": 0.00018170941492737233,
+        "name": "Post",
+        "offset": 0.00037196680401875527
+      },
+      {
+        "tid": "18",
+        "p": 0.4879504695049649,
+        "name": "Reise",
+        "offset": 0.0005536762189461276
+      },
+      {
+        "tid": "4",
+        "p": 0.22580472287564735,
+        "name": "Buchhandel",
+        "offset": 0.48850414572391104
+      },
+      {
+        "tid": "17",
+        "p": 0.19416788964509174,
+        "name": "Publizistik",
+        "offset": 0.7143088685995584
+      },
+      {
+        "tid": "13",
+        "p": 0.09152324175534965,
+        "name": "Literatur",
+        "offset": 0.9084767582446502
+      }
+    ]
+  },
+  {
+    "filename": "cor_makl_brjo_19340623_cc_01.xml",
+    "did": "64",
+    "topics": [
+      {
+        "tid": "13",
+        "p": 9.883241492095589e-05,
+        "name": "Literatur",
+        "offset": 0
+      },
+      {
+        "tid": "19",
+        "p": 0.0005041161644942065,
+        "name": "Rezension",
+        "offset": 9.883241492095589e-05
+      },
+      {
+        "tid": "8",
+        "p": 0.00021607588862751492,
+        "name": "Gesellschaftsordnung",
+        "offset": 0.0006029485794151624
+      },
+      {
+        "tid": "17",
+        "p": 0.00019132402592590445,
+        "name": "Publizistik",
+        "offset": 0.0008190244680426773
+      },
+      {
+        "tid": "5",
+        "p": 0.00014053485915306515,
+        "name": "Drittes Reich",
+        "offset": 0.0010103484939685819
+      },
+      {
+        "tid": "3",
+        "p": 0.5397302062311129,
+        "name": "Auswanderung",
+        "offset": 0.001150883353121647
+      },
+      {
+        "tid": "2",
+        "p": 0.32551386865092974,
+        "name": "Angst",
+        "offset": 0.5408810895842345
+      },
+      {
+        "tid": "27",
+        "p": 0.08299883370864697,
+        "name": "Zwischenmenschliche Beziehungen",
+        "offset": 0.8663949582351642
+      },
+      {
+        "tid": "24",
+        "p": 0.05060620805618683,
+        "name": "Verwandschaft",
+        "offset": 0.9493937919438111
+      }
+    ]
+  }
+]
